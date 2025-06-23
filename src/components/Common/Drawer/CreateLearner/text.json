@@ -1,0 +1,43 @@
+{
+  "title": "Créer un apprenant",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "email": "E-mail",
+  "inform": "Informer l’apprenant de la création de son compte",
+  "createTeam": "Créer",
+  "createLearner": "Cette section vous permettra de créer un apprenant",
+  "noLicense": "Désolé vous n'avez aucune licence disponible, vous ne pouvez pas créer un nouveau apprenant pour le moment.",
+  "noLicenseButton": "Commander des licences",
+  "placeholderTeams": "Sélectionnez une équipe",
+  "licenseType": "Type de licence",
+  "licenseQuantity": "Quantité de licence",
+  "newLicense": {
+    "newLicenseTitle": "Affecter une nouvelle licence",
+    "licenseType": "Type d'abonnement",
+    "licenseQuantity": "Quantité de licence",
+    "helpMessage": "Affectez une ou plusieurs licences à votre apprenant"
+  },
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle"
+  },
+  "other": "Autre ",
+  "none": "Aucune",
+  "allTeams": "Toutes les équipes",
+  "placeholder": "Insérez un ou plusieurs e-mails",
+  "Team": "Équipe",
+  "label": {
+    "team": "Nom d'équipe"
+  },
+  "tip": "Astuce",
+  "tipContent": {
+    "link": "live chat",
+    "email": "cs@pro_boa.com",
+    "phone": "+33176350685",
+    "body": {
+      "first": "Si vous voulez créer vos apprenants en masse, veuillez contacter notre équipe via",
+      "second": ", par email à",
+      "last": "ou par téléphone au "
+    }
+  }
+}

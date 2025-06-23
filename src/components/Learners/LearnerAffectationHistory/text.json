@@ -1,0 +1,16 @@
+{
+  "q": "?",
+  "export": "Exporter",
+  "title": "Historique des affectations",
+  "affectDate": "Date d'affectation",
+  "licenseType": "Type de licence",
+  "affectedBy": "Affecté par",
+  "quantity": "Quantité",
+  "notAvailable": "-",
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle",
+    "Trial": "Essai",
+    "None": "Aucun"
+  }
+}

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> MailCard --- Shallow Render MailCard component +++ render correctly and match snapshot 1`] = `
+<div
+  className="row-0-2-5 row-d0-0-2-8 paper-0-2-9"
+>
+  <div
+    className="avatarContainer-0-2-11"
+  >
+    <div
+      className="dot-0-2-10"
+    />
+    <span
+      className="avatarGroup-0-2-12 avatarGroup-d0-0-2-13"
+    >
+      YS
+    </span>
+  </div>
+  <p
+    className="text-0-2-14 text-d0-0-2-15"
+  >
+     
+  </p>
+  <div
+    className="card-0-2-6"
+  >
+    <span
+      className="icon-creation-date-alph-iconfont icon-0-2-7"
+    />
+    <p
+      className="text-0-2-16 text-d0-0-2-17"
+    />
+  </div>
+  <div
+    className="card-0-2-6"
+  >
+    <span
+      className="icon-last-login-user-alph-iconfont icon-0-2-7"
+    />
+    <p
+      className="text-0-2-18 text-d0-0-2-19"
+    />
+  </div>
+  <div
+    className="card-0-2-6"
+  >
+    <span
+      className="icon-email-alph-iconfont icon-0-2-7"
+    />
+    <p
+      className="text-0-2-20 text-d0-0-2-21"
+    />
+  </div>
+</div>
+`;

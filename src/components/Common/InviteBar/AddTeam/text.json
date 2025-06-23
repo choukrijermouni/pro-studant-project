@@ -1,0 +1,17 @@
+{
+  "assignTeam": "Affecter une équipe",
+  "removeTeam": "Retirer une équipe",
+  "removeManager": "Retirer ce manager",
+  "allTeams": "Liste des équipes",
+  "add": "Affecter",
+  "remove": "Retirer",
+  "detachTitle": "Retirer ce manager",
+  "subHeader": "Une fois qu'un manager est retiré :",
+  "dot": "•",
+  "noAccess": "Il n’aura plus accès à l'espace Pro.",
+  "confirmationText": "Êtes-vous sûr de vouloir retirer ce manager ?",
+  "contactText": "Pour toutes vos questions, contactez-nous par e-mail à l'adresse suivante :",
+  "orViaPhone": "ou par téléphone au",
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler"
+}

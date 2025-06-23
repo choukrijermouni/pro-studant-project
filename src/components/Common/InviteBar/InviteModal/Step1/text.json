@@ -1,0 +1,25 @@
+{
+  "inviteTitle": "Inviter des apprenants",
+  "subHeader": {
+    "first": "Vous avez invité ",
+    "second": "nouveaux apprenants à rejoindre votre organisme"
+  },
+  "learner": "Apprenants",
+  "licenseAffect": "Affectez des licences à vos apprenants",
+  "monthlyLicenseLeft": "Licences mensuelles disponibles : ",
+  "yearlyLicenseLeft": "Licences annuelles disponibles : ",
+  "trialLicenseLeft": "Licences d'essai disponibles : ",
+  "allTeams": "Équipes",
+  "withoutButton": "Aucune",
+  "trialButton": "Essai",
+  "yearlyButton": "Annuelle",
+  "monthlyButton": "Mensuelle",
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler",
+  "withoutTeam": "Sans",
+  "noLicenseLeftMessage": "Vous avez épuisé toutes les licences. Veuillez contacter notre équipe pour vous prendre en charge",
+  "noLicenseMessage": "Aucune licence disponible. Veuillez contacter notre équipe",
+  "on": "par e-mail à l’adresse :",
+  "or": "ou par téléphone au :",
+  "forGettingNewLicenses": "pour commander de nouvelles licences."
+}

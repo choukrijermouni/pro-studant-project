@@ -1,0 +1,685 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Admin --- Shallow Render Admin component +++ render correctly and match snapshot 1`] = `
+<div
+  className="root-0-2-15"
+>
+  <div
+    className="container-0-2-3"
+  >
+    <img
+      alt="logo"
+      className="size-0-2-7"
+      src={Object {}}
+    />
+    <div
+      className="iconHolder-0-2-14"
+      onClick={[Function]}
+    >
+      <span
+        className="icon-navigationmenu-alph-iconfont iconHeader-0-2-12"
+      />
+       
+    </div>
+  </div>
+  <div
+    className="side-0-2-19 side-d0-0-2-28"
+  >
+    <div
+      className="container-0-2-26"
+    />
+    <div
+      className="wizard-0-2-20"
+    >
+      <img
+        alt="wizard"
+        className="buttonIcon-0-2-24"
+        src={Object {}}
+      />
+      <span
+        className="buttonTitle-0-2-21"
+      >
+        <p
+          className="text-0-2-29 text-d0-0-2-30"
+        >
+          WIZARD
+        </p>
+      </span>
+      <span
+        className="buttonSub-0-2-22"
+      >
+        <p
+          className="text-0-2-31 text-d0-0-2-32"
+        >
+          Créer rapidement vos équipe
+        </p>
+      </span>
+    </div>
+    <div
+      className="kids-0-2-27"
+    >
+      <div>
+        <div
+          className="menuItemGroup-0-2-34"
+        >
+          <input
+            checked={false}
+            className="input-0-2-36 input-d1-0-2-39"
+            id="home"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="home"
+          />
+          <div
+            className="selector-0-2-37"
+          />
+          <div
+            className="menuItem-0-2-35 menuItem-d0-0-2-38"
+          >
+            <span>
+              <span
+                className="icon-home-alph-iconfont icon-0-2-33"
+              />
+               
+              Accueil
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-40"
+        >
+          <input
+            checked={false}
+            className="input-0-2-42 input-d1-0-2-45"
+            id="learners"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="learners"
+          />
+          <div
+            className="selector-0-2-43"
+          />
+          <div
+            className="menuItem-0-2-41 menuItem-d0-0-2-44"
+          >
+            <span>
+              <span
+                className="icon-users-alph-iconfont icon-0-2-33"
+              />
+               
+              Apprenants
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-46"
+        >
+          <input
+            checked={false}
+            className="input-0-2-48 input-d1-0-2-51"
+            id="teams"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="teams"
+          />
+          <div
+            className="selector-0-2-49"
+          />
+          <div
+            className="menuItem-0-2-47 menuItem-d0-0-2-50"
+          >
+            <span>
+              <span
+                className="icon-temas-alph-iconfont icon-0-2-33"
+              />
+               
+              Equipes
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-52"
+        >
+          <input
+            checked={false}
+            className="input-0-2-54 input-d1-0-2-57"
+            id="teamsManager"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="teamsManager"
+          />
+          <div
+            className="selector-0-2-55"
+          />
+          <div
+            className="menuItem-0-2-53 menuItem-d0-0-2-56"
+          >
+            <span>
+              <span
+                className="icon-admins-alph-iconfont icon-0-2-33"
+              />
+               
+              Managers d'equipes
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-58"
+        >
+          <input
+            checked={false}
+            className="input-0-2-60 input-d1-0-2-63"
+            id="rapports"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="rapports"
+          />
+          <div
+            className="selector-0-2-61"
+          />
+          <div
+            className="menuItem-0-2-59 menuItem-d0-0-2-62"
+          >
+            <span>
+              <span
+                className="icon-reports-alph-iconfont icon-0-2-33"
+              />
+               
+              Rapports
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="top-0-2-64"
+  >
+    <div
+      className="root-0-2-65 root-d0-0-2-66"
+    >
+      <div
+        className="root-0-2-67 root-d0-0-2-71"
+      >
+        <div
+          className="inputGroup-0-2-68"
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <div
+            className="inputGroup-0-2-73 inputGroup-d0-0-2-76"
+          >
+            <input
+              className="input-0-2-74 input-d1-0-2-77"
+              disabled={false}
+              id="unique_ID_1"
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Rechercher"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="icon-0-2-79 icon-d0-0-2-81"
+            onClick={[Function]}
+          >
+            <span
+              className="icon-search-alph-iconfont iconStyle-0-2-80 iconStyle-d1-0-2-82"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="root-0-2-83"
+    >
+      <div
+        className="notificationContainer-0-2-93"
+      >
+        <div
+          className="notificationStyle-0-2-88"
+        >
+          <div
+            className="alert-0-2-89"
+          >
+            3
+          </div>
+        </div>
+        <img
+          alt="notification"
+          className="iconHeader-0-2-86"
+          onClick={[Function]}
+          src={Object {}}
+        />
+      </div>
+      <div>
+        <div
+          className="container-0-2-87"
+        >
+          <div
+            className="avatar-0-2-84"
+          >
+            <span
+              className="avatarGroup-0-2-101 avatarGroup-d0-0-2-102"
+            >
+              MD
+            </span>
+          </div>
+          <div
+            className="font-0-2-85"
+          >
+            <p
+              className="text-0-2-103 text-d0-0-2-104"
+              onClick={[Function]}
+            >
+              Mon Compte
+            </p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <img
+          alt="notification"
+          className="iconHeader-0-2-86"
+          src={Object {}}
+        />
+      </div>
+    </div>
+  </div>
+  <main
+    className="main-0-2-4"
+  >
+    <div
+      className="content-0-2-5"
+    >
+      <div>
+        <div
+          className="container-0-2-2"
+        >
+          <span
+            className="icon-roundedleft icon-0-2-1"
+          />
+          <p
+            className="text-0-2-105 text-d0-0-2-106"
+          >
+            Administrateur
+          </p>
+          <div>
+            <div
+              className="bannerGroup-0-2-107 bannerGroup-d0-0-2-109"
+            >
+              <span
+                className="icon-warning-alph-iconfont iconStyle-0-2-108 iconStyle-d1-0-2-110"
+              />
+              <div>
+                <p
+                  className="text-0-2-111 text-d0-0-2-112"
+                >
+                  Vous êtes vous même un administrateur. Donc, un administrateur aura les mêmes droits que vous sur tous les éléments de l'entreprise.
+                </p>
+              </div>
+            </div>
+            <br />
+            <div>
+              <div
+                className="row-0-2-113 row-d0-0-2-116 paper-0-2-117"
+              >
+                <div
+                  className="avatarContainer-0-2-119"
+                >
+                  <div
+                    className="dot-0-2-118"
+                  />
+                  <span
+                    className="avatarGroup-0-2-120 avatarGroup-d0-0-2-121"
+                  >
+                    YS
+                  </span>
+                </div>
+                <p
+                  className="text-0-2-122 text-d0-0-2-123"
+                >
+                  choukri
+                   
+                  Sebbar
+                </p>
+                <div
+                  className="card-0-2-114"
+                >
+                  <span
+                    className="icon-creation-date-alph-iconfont icon-0-2-115"
+                  />
+                  <p
+                    className="text-0-2-124 text-d0-0-2-125"
+                  >
+                    05/07/2021
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-114"
+                >
+                  <span
+                    className="icon-last-login-user-alph-iconfont icon-0-2-115"
+                  />
+                  <p
+                    className="text-0-2-126 text-d0-0-2-127"
+                  >
+                    01/01/2020
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-114"
+                >
+                  <span
+                    className="icon-email-alph-iconfont icon-0-2-115"
+                  />
+                  <p
+                    className="text-0-2-128 text-d0-0-2-129"
+                  >
+                    choukri@test.com
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                className="row-0-2-130 row-d0-0-2-133 paper-0-2-134"
+              >
+                <div
+                  className="avatarContainer-0-2-119"
+                >
+                  <div
+                    className="dot-0-2-118"
+                  />
+                  <span
+                    className="avatarGroup-0-2-135 avatarGroup-d0-0-2-136"
+                  >
+                    YS
+                  </span>
+                </div>
+                <p
+                  className="text-0-2-137 text-d0-0-2-138"
+                >
+                  Choukri
+                   
+                  Jermouni
+                </p>
+                <div
+                  className="card-0-2-131"
+                >
+                  <span
+                    className="icon-creation-date-alph-iconfont icon-0-2-132"
+                  />
+                  <p
+                    className="text-0-2-139 text-d0-0-2-140"
+                  >
+                    03/07/2022
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-131"
+                >
+                  <span
+                    className="icon-last-login-user-alph-iconfont icon-0-2-132"
+                  />
+                  <p
+                    className="text-0-2-141 text-d0-0-2-142"
+                  >
+                    01/01/2020
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-131"
+                >
+                  <span
+                    className="icon-email-alph-iconfont icon-0-2-132"
+                  />
+                  <p
+                    className="text-0-2-143 text-d0-0-2-144"
+                  >
+                    choukri@test.com
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                className="row-0-2-145 row-d0-0-2-148 paper-0-2-149"
+              >
+                <div
+                  className="avatarContainer-0-2-119"
+                >
+                  <div
+                    className="dot-0-2-118"
+                  />
+                  <span
+                    className="avatarGroup-0-2-150 avatarGroup-d0-0-2-151"
+                  >
+                    YS
+                  </span>
+                </div>
+                <p
+                  className="text-0-2-152 text-d0-0-2-153"
+                >
+                  Richard
+                   
+                  Drissi
+                </p>
+                <div
+                  className="card-0-2-146"
+                >
+                  <span
+                    className="icon-creation-date-alph-iconfont icon-0-2-147"
+                  />
+                  <p
+                    className="text-0-2-154 text-d0-0-2-155"
+                  >
+                    03/07/2022
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-146"
+                >
+                  <span
+                    className="icon-last-login-user-alph-iconfont icon-0-2-147"
+                  />
+                  <p
+                    className="text-0-2-156 text-d0-0-2-157"
+                  >
+                    01/01/2020
+                  </p>
+                </div>
+                <div
+                  className="card-0-2-146"
+                >
+                  <span
+                    className="icon-email-alph-iconfont icon-0-2-147"
+                  />
+                  <p
+                    className="text-0-2-158 text-d0-0-2-159"
+                  >
+                    Richard@test.com
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="rowStyle-0-2-162 row-0-2-165 row-d2-0-2-169"
+    >
+      <div
+        className="side-0-2-160"
+      >
+        <div
+          className="content-0-2-161"
+        >
+          <div
+            className="row-0-2-176 row-d2-0-2-180"
+          >
+            <div
+              className="col col-0-2-185 col-d3-0-2-189"
+            >
+              <p
+                className="text-0-2-190 text-d0-0-2-191"
+              >
+                Inviter des apprenants
+              </p>
+            </div>
+            <div
+              className="col col-0-2-195 col-d3-0-2-199"
+            >
+              <span
+                className="icon-roundeddown icon-0-2-172"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+          <div
+            className="row row-0-2-202 row-d2-0-2-206"
+          >
+            <div
+              className="inputGroup-0-2-208"
+            >
+              
+              <textarea
+                className="invites-0-2-171 input-0-2-209 input-d0-0-2-211"
+                disabled={false}
+                id="1"
+                placeholder="Coper un e-mail ou une liste des emails"
+              />
+              
+            </div>
+            <button
+              className="button-0-2-212 button-d0-0-2-214"
+              onClick={[Function]}
+              type="button"
+            >
+              <p
+                className="text-0-2-216 text-d0-0-2-217 text-0-2-213 text-d1-0-2-215"
+              >
+                Inviter
+              </p>
+            </button>
+            <div
+              className="row row-0-2-220 row-d2-0-2-224"
+            >
+              <p
+                className="text-0-2-226 text-d0-0-2-227"
+              >
+                Cette section vous permettra d'ajouter un ou plusieurs apprenants en même temps
+              </p>
+            </div>
+          </div>
+          <div
+            className="row-0-2-230 row-d2-0-2-234"
+          >
+            <div
+              className="col col-0-2-239 col-d3-0-2-243"
+            >
+              <p
+                className="text-0-2-244 text-d0-0-2-245"
+              >
+                Suivis d'équipes 
+              </p>
+            </div>
+            <div
+              className="col col-0-2-249 col-d3-0-2-253"
+            >
+              <span
+                className="icon-roundeddown icon-0-2-172"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+          <div
+            className="row-0-2-256 row-d2-0-2-260"
+          >
+            <div
+              className="row row-0-2-264 row-d2-0-2-268"
+            >
+              <span
+                className="input-0-2-173"
+              >
+                <div
+                  className="searchableSelectList-0-2-270"
+                >
+                  <div
+                    className="inputAndIcon-0-2-271 inputAndIcon-d0-0-2-273"
+                  >
+                    <div
+                      className="inputGroup-0-2-275 inputGroup-d0-0-2-278"
+                    >
+                      <input
+                        className="input-0-2-276 input-d1-0-2-279"
+                        disabled={false}
+                        id="country"
+                        onChange={[Function]}
+                        placeholder="Toutes les équipes"
+                        type="text"
+                      />
+                    </div>
+                    <div
+                      className="icon-0-2-281 icon-d0-0-2-283"
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="icon-roundeddown iconStyle-0-2-282 iconStyle-d1-0-2-284"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="suggestionGroupContainer-0-2-272 suggestionGroupContainer-d1-0-2-274"
+                    id="country"
+                  >
+                    <div
+                      className="suggestionGroup-0-2-285"
+                    >
+                      <div
+                        className="emptySuggestionItem-0-2-286"
+                      >
+                        <label>
+                          not found
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </span>
+              <button
+                className="button-0-2-287 button-d0-0-2-289"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-291 text-d0-0-2-292 text-0-2-288 text-d1-0-2-290"
+                >
+                  Inviter
+                </p>
+              </button>
+            </div>
+            <div
+              className="row row-0-2-295 row-d2-0-2-299"
+            >
+              <p
+                className="text-0-2-301 text-d0-0-2-302"
+              >
+                Aide sur les suivis d'équipe
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+`;

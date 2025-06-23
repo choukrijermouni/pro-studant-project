@@ -1,0 +1,14 @@
+{
+  "reports": "Licenses",
+  "annualLicenses": "Licences annuelles",
+  "monthlyLicenses": "Licences mensuelles",
+  "trialLicenses": "Licences d’essai",
+  "partitions": "Répartition",
+  "download": "Exporter le rapport",
+  "noLicenseLeftMessage": "Vous n'avez aucune licence disponible. Veuillez passer votre commande de licences en cliquant sur le bouton au-dessus",
+  "noLicenseMessage": "Aucune licence disponible. Veuillez contacter notre équipe",
+  "on": "par e-mail à l’adresse :",
+  "or": "ou par téléphone au : ",
+  "forGettingNewLicenses": "pour commander de nouvelles licences.",
+  "orderLicenses": "Commander des licences"
+}

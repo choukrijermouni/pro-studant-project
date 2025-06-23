@@ -1,0 +1,42 @@
+{
+  "header": "Bienvenue sur votre Espace Pro",
+  "skipThisStep": "Passer cette étape",
+  "uploadPhoto": "Ajoutez une photo de profil pour vous reconnaître facilement",
+  "inputLabels": {
+    "firstName": "Prénom",
+    "phone": "Téléphone",
+    "company": "Organisation",
+    "lastName": "Nom",
+    "email": "E-mail",
+    "country": "Pays",
+    "function": "Fonction",
+    "birthDate": "Date de naissance"
+  },
+  "inputPlaceHolder": {
+    "firstName": "Tapez votre prénom",
+    "phone": "Tapez votre téléphone",
+    "company": "Tapez le nom de votre organisation",
+    "lastName": "Tapez votre nom",
+    "email": "Tapez votre e-mail",
+    "country": "Sélectionnez votre pays",
+    "function": "Sélectionnez votre fonction",
+    "birthDate": "Entrez votre date de naissance"
+  },
+  "headers": {
+    "general": "Profil"
+  },
+  "profilePicture": "Photo de profil",
+  "generalInfo": "Informations Générales",
+  "sexe": "Sexe",
+  "logout": "Se déconnecter",
+  "disableAccount": "Désactiver le compte",
+  "required": "Champ requis",
+  "save": "Enregistrer",
+  "emailIncorrect": "E-mail invalide",
+  "manager": {
+    "managerHeader": "Faites vos premiers pas sur votre espace Pro.",
+    "managerTeamHeader": ",pour gérer l'équipe",
+    "invitedManagerHeader": "Bonjour, vous avez reçu une invitation de la part de",
+    "toManageTeam": "pour gérer l’équipe "
+  }
+}

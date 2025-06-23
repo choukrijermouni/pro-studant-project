@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> TeamCard --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div
+  className="row-0-2-6 paper-0-2-11"
+>
+  <div
+    className="inputGroup-0-2-12"
+  >
+    <input
+      className="input-0-2-14"
+      disabled={false}
+      id="desktop1"
+      type="checkbox"
+    />
+    <label
+      className="checkbox-0-2-13 checkbox-d0-0-2-16"
+    />
+    <label
+      className="label-0-2-15 checkBox-0-2-7"
+      htmlFor="desktop1"
+    >
+      
+    </label>
+  </div>
+  <img
+    alt="teamTag"
+    className="teamTag-0-2-10"
+  />
+  <p
+    className="text-0-2-17 text-d0-0-2-18"
+  />
+  <div
+    className="card-0-2-8"
+  >
+    <span
+      className="icon-users-alph-iconfont icon-0-2-9"
+    />
+    <p
+      className="text-0-2-19 text-d0-0-2-20"
+    />
+  </div>
+  <div
+    className="card-0-2-8"
+  >
+    <span
+      className="icon-admins-alph-iconfont icon-0-2-9"
+    />
+    <p
+      className="text-0-2-21 text-d0-0-2-22"
+    />
+  </div>
+</div>
+`;

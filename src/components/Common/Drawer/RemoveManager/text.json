@@ -1,0 +1,7 @@
+{
+  "title": "Retirer ce manager",
+  "confirmMessage": "Une fois qu'un manager est retiré : Il n’aura plus accès à l'espace Pro.",
+  "confirmMessageSecondary": "Êtes-vous sûr de vouloir retirer ce manager ?",
+  "confirm": "Confirmer",
+  "cancel": "Annuler"
+}

@@ -1,0 +1,17 @@
+{
+  "invite": "Inviter des apprenants",
+  "inviteMessage": "Invitez un ou plusieurs apprenants à vous rejoindre",
+  "suivi": "Rapport de suivi global",
+  "download": "Télécharger",
+  "export": "Exporter les rapports",
+  "type": "Type de rapport",
+  "dateRanges": "Intervalle de date",
+  "downloadSuivi": "Exporter le rapport de suivi",
+  "users": "Liste des apprenants",
+  "learning": "Rapport heures de visionnage",
+  "suiviMessage": "Suivez la progression de vos apprenants",
+  "allTeams": "Toutes les équipes",
+  "placeholder": "Sélectionnez un rapport",
+  "Team": "Équipe",
+  "noName": "Sans nom"
+}

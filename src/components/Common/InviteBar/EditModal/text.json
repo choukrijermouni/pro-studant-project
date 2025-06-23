@@ -1,0 +1,9 @@
+{
+  "title": "Modifier l’équipe",
+  "subHeader": "Sélectionnez une icône pour votre équipe",
+  "teamName": "Nom de l'équipe ",
+  "confirmButton": "Modifier",
+  "abortButton": "Annuler",
+  "description": "Tapez une description",
+  "required": "Champ requis"
+}

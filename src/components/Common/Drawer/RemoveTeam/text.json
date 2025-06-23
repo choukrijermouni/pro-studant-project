@@ -1,0 +1,20 @@
+{
+  "titleInvite": "Inviter un nouveau manager",
+  "addManager": "Assigner un manager",
+  "removeManager": "Retirer un manager",
+  "deleteMessage": "Supprimer cette équipe",
+  "allManagers": "Sélectionnez un manager",
+  "placeholder": "Insérez l'e-mail du manager d'équipe",
+  "add": "Ajouter",
+  "invite": "Inviter",
+  "remove": "Retirer",
+  "managerName": "Nom du manager",
+  "noName": "Sans nom",
+  "abortButton": "Annuler",
+  "confirmButton": "Confirmer",
+  "learners": "apprenants",
+  "removeTeam": {
+    "title": "Les apprenants appartenant à cette équipe seront retirés de l'équipe.",
+    "subtitle": "Voulez-vous vraiment supprimer cette équipe ?"
+  }
+}

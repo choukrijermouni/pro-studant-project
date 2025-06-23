@@ -1,0 +1,17 @@
+{
+  "download": "Exporter le rapport",
+  "affectationHistory": "Historique des affectations",
+  "showMore": "Afficher plus",
+  "noOperation": "Aucune affectation effectuée pour le moment",
+  "noOperationFiltered": "Aucune affectation pendant cette période",
+  "licenseTypes": {
+    "Annual": "A",
+    "Monthly": "M",
+    "Trial": "E",
+    "None": "Sans licence"
+  },
+  "name": "Nom complet",
+  "operationDate": "Date d’affectation",
+  "licenseType": "Type de licence",
+  "admin": "Affecté par"
+}

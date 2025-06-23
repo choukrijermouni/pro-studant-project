@@ -1,0 +1,42 @@
+{
+  "welcome": "Bienvenue sur l'Espace Pro d'pro_boa.",
+  "subTitle": "Veuillez compléter votre profil pour profiter pleinement de votre expérience",
+  "steps": "Étape 1 sur 2",
+  "skipAllSteps": "Passer toutes les étapes",
+  "header": "Bonjour, “Nom de l’administration” vous invite à rejoindre l'équipe “Nom de l’équipe”.",
+  "skipThisStep": "Passer cette étape",
+  "uploadPhoto": "Ajoutez une photo de profil pour vous reconnaître facilement",
+  "appText": "Confirmez votre numéro de téléphone pour profiter de l'application mobile.",
+  "appButton": "Je souhaite recevoir le lien de téléchargement de l'application mobile par SMS.",
+  "inputLabels": {
+    "firstName": "Prénom",
+    "phone": "Téléphone",
+    "company": "Organisation",
+    "lastName": "Nom",
+    "email": "E-mail",
+    "country": "Pays",
+    "function": "Fonction",
+    "birthDate": "Date de naissance"
+  },
+  "inputPlaceHolder": {
+    "firstName": "Tapez votre nom",
+    "phone": "Tapez votre téléphone",
+    "company": "Tapez le nom de votre organisation",
+    "lastName": "Tapez votre prénom",
+    "email": "Tapez votre e-mail",
+    "country": "Sélectionnez votre pays",
+    "function": "Sélectionnez votre fonction",
+    "birthDate": "Entrez votre date de naissance"
+  },
+  "headers": {
+    "general": "Profil"
+  },
+  "profilePicture": "Photo de profil",
+  "generalInfo": "Informations Générales",
+  "sexe": "Sexe",
+  "logout": "Se déconnecter",
+  "disableAccount": "Désactiver le compte",
+  "required": "Champ requis",
+  "save": "Enregistrer",
+  "emailIncorrect": "E-mail invalide"
+}

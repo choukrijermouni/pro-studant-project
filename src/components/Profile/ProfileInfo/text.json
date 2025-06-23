@@ -1,0 +1,21 @@
+{
+  "license": "Licence",
+  "expire": "expire le",
+  "withoutLicense": "Aucune licence",
+  "lastConnection": "Dernière connexion le",
+  "neverConnected": "Aucune activité",
+  "download": "Exporter le suivi",
+  "reinvite": "Inviter",
+  "withoutTeam": "N’appartient à aucune équipe",
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle",
+    "Trial": "Essai",
+    "None": "Aucune"
+  },
+  "affectLicense": "Affecter une licence",
+  "reinviteLearner": "Relancer l'apprenant",
+  "editTeam": "Modifier l’équipe",
+  "deleteLearner": "Supprimer l’apprenant",
+  "askAccess": "Demander l'accès aux formations"
+}

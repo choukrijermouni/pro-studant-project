@@ -1,0 +1,637 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Recommendation --- Shallow Render Recommendation component +++ render correctly and match snapshot 1`] = `
+<div
+  className="container-0-2-3 container-d1-0-2-7"
+>
+  <div
+    className="root-0-2-10"
+  >
+    <div
+      className="header-0-2-11"
+    >
+      <p
+        className="text-0-2-20 text-d0-0-2-21"
+      >
+        Recommander a Carl Bernett
+      </p>
+      <div
+        className="controls-0-2-26"
+      >
+        <div
+          className="iconWrapper-0-2-28 iconWrapper-d2-0-2-31 disabled-0-2-22"
+          onClick={[Function]}
+        >
+          <span
+            className="icon-roundedleft icon-0-2-27 icon-d1-0-2-30"
+          />
+        </div>
+        <div
+          className="viewsDots-0-2-25"
+        >
+          <div
+            className="dot-0-2-23 dot-d0-0-2-29 activeDot-0-2-24"
+            onClick={[Function]}
+          />
+          <div
+            className="dot-0-2-23 dot-d0-0-2-29"
+            onClick={[Function]}
+          />
+        </div>
+        <div
+          className="iconWrapper-0-2-28 iconWrapper-d2-0-2-31"
+          onClick={[Function]}
+        >
+          <span
+            className="icon-roundedUp icon-0-2-27 icon-d1-0-2-30"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="slides-0-2-13 slides-d0-0-2-19"
+    >
+      <div
+        className="view-0-2-32 view-d0-0-2-33"
+      >
+        <div
+          className="view-0-2-1"
+        >
+          <div
+            className="cardGroup-0-2-35 cardGroup-d1-0-2-52"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-50 play-d12-0-2-63"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-38 playIcon-d4-0-2-55"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-36 imageContainer-d2-0-2-53"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-37 image-d3-0-2-54"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-41 cardDetails-d7-0-2-58"
+            >
+              <div
+                className="infos-0-2-42"
+              >
+                <div
+                  className="users-0-2-43 users-d8-0-2-59"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-64 text-d0-0-2-65 detailsText-0-2-48 detailsText-d11-0-2-62"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-44 time-d9-0-2-60"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-66 text-d0-0-2-67 detailsText-0-2-48 detailsText-d11-0-2-62"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-47"
+              >
+                <div
+                  className="rateStarsGroup-0-2-68 rateStarsGroup-d0-0-2-70"
+                >
+                  <span
+                    className="starFill-0-2-69 starFill-d1-0-2-71"
+                  />
+                </div>
+                <p
+                  className="text-0-2-72 text-d0-0-2-73 detailsText-0-2-48 detailsText-d11-0-2-62"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-74 text-d0-0-2-75 title-0-2-46 title-d10-0-2-61"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-45"
+            >
+              <button
+                className="button-0-2-76 button-d0-0-2-78"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-80 text-d0-0-2-81 text-0-2-77 text-d1-0-2-79"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+          <div
+            className="cardGroup-0-2-83 cardGroup-d1-0-2-100"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-98 play-d12-0-2-111"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-86 playIcon-d4-0-2-103"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-84 imageContainer-d2-0-2-101"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-85 image-d3-0-2-102"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-89 cardDetails-d7-0-2-106"
+            >
+              <div
+                className="infos-0-2-90"
+              >
+                <div
+                  className="users-0-2-91 users-d8-0-2-107"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-112 text-d0-0-2-113 detailsText-0-2-96 detailsText-d11-0-2-110"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-92 time-d9-0-2-108"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-114 text-d0-0-2-115 detailsText-0-2-96 detailsText-d11-0-2-110"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-95"
+              >
+                <div
+                  className="rateStarsGroup-0-2-116 rateStarsGroup-d0-0-2-118"
+                >
+                  <span
+                    className="starFill-0-2-117 starFill-d1-0-2-119"
+                  />
+                </div>
+                <p
+                  className="text-0-2-120 text-d0-0-2-121 detailsText-0-2-96 detailsText-d11-0-2-110"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-122 text-d0-0-2-123 title-0-2-94 title-d10-0-2-109"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-93"
+            >
+              <button
+                className="button-0-2-124 button-d0-0-2-126"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-128 text-d0-0-2-129 text-0-2-125 text-d1-0-2-127"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+          <div
+            className="cardGroup-0-2-131 cardGroup-d1-0-2-148"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-146 play-d12-0-2-159"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-134 playIcon-d4-0-2-151"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-132 imageContainer-d2-0-2-149"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-133 image-d3-0-2-150"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-137 cardDetails-d7-0-2-154"
+            >
+              <div
+                className="infos-0-2-138"
+              >
+                <div
+                  className="users-0-2-139 users-d8-0-2-155"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-160 text-d0-0-2-161 detailsText-0-2-144 detailsText-d11-0-2-158"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-140 time-d9-0-2-156"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-162 text-d0-0-2-163 detailsText-0-2-144 detailsText-d11-0-2-158"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-143"
+              >
+                <div
+                  className="rateStarsGroup-0-2-164 rateStarsGroup-d0-0-2-166"
+                >
+                  <span
+                    className="starFill-0-2-165 starFill-d1-0-2-167"
+                  />
+                </div>
+                <p
+                  className="text-0-2-168 text-d0-0-2-169 detailsText-0-2-144 detailsText-d11-0-2-158"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-170 text-d0-0-2-171 title-0-2-142 title-d10-0-2-157"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-141"
+            >
+              <button
+                className="button-0-2-172 button-d0-0-2-174"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-176 text-d0-0-2-177 text-0-2-173 text-d1-0-2-175"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+          <div
+            className="cardGroup-0-2-179 cardGroup-d1-0-2-196"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-194 play-d12-0-2-207"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-182 playIcon-d4-0-2-199"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-180 imageContainer-d2-0-2-197"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-181 image-d3-0-2-198"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-185 cardDetails-d7-0-2-202"
+            >
+              <div
+                className="infos-0-2-186"
+              >
+                <div
+                  className="users-0-2-187 users-d8-0-2-203"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-208 text-d0-0-2-209 detailsText-0-2-192 detailsText-d11-0-2-206"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-188 time-d9-0-2-204"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-210 text-d0-0-2-211 detailsText-0-2-192 detailsText-d11-0-2-206"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-191"
+              >
+                <div
+                  className="rateStarsGroup-0-2-212 rateStarsGroup-d0-0-2-214"
+                >
+                  <span
+                    className="starFill-0-2-213 starFill-d1-0-2-215"
+                  />
+                </div>
+                <p
+                  className="text-0-2-216 text-d0-0-2-217 detailsText-0-2-192 detailsText-d11-0-2-206"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-218 text-d0-0-2-219 title-0-2-190 title-d10-0-2-205"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-189"
+            >
+              <button
+                className="button-0-2-220 button-d0-0-2-222"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-224 text-d0-0-2-225 text-0-2-221 text-d1-0-2-223"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="view-0-2-226 view-d0-0-2-227"
+      >
+        <div
+          className="view-0-2-1"
+        >
+          <div
+            className="cardGroup-0-2-229 cardGroup-d1-0-2-246"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-244 play-d12-0-2-257"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-232 playIcon-d4-0-2-249"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-230 imageContainer-d2-0-2-247"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-231 image-d3-0-2-248"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-235 cardDetails-d7-0-2-252"
+            >
+              <div
+                className="infos-0-2-236"
+              >
+                <div
+                  className="users-0-2-237 users-d8-0-2-253"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-258 text-d0-0-2-259 detailsText-0-2-242 detailsText-d11-0-2-256"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-238 time-d9-0-2-254"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-260 text-d0-0-2-261 detailsText-0-2-242 detailsText-d11-0-2-256"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-241"
+              >
+                <div
+                  className="rateStarsGroup-0-2-262 rateStarsGroup-d0-0-2-264"
+                >
+                  <span
+                    className="starFill-0-2-263 starFill-d1-0-2-265"
+                  />
+                </div>
+                <p
+                  className="text-0-2-266 text-d0-0-2-267 detailsText-0-2-242 detailsText-d11-0-2-256"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-268 text-d0-0-2-269 title-0-2-240 title-d10-0-2-255"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-239"
+            >
+              <button
+                className="button-0-2-270 button-d0-0-2-272"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-274 text-d0-0-2-275 text-0-2-271 text-d1-0-2-273"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+          <div
+            className="cardGroup-0-2-277 cardGroup-d1-0-2-294"
+            title="Cisco ICND1/CCENT : Réussir l examen 100-101"
+          >
+            <div>
+              <div
+                className="play-0-2-292 play-d12-0-2-305"
+              >
+                <span
+                  className="icon-play-alph-iconfont playIcon-0-2-280 playIcon-d4-0-2-297"
+                />
+              </div>
+              <div
+                className="imageContainer-0-2-278 imageContainer-d2-0-2-295"
+              >
+                <img
+                  alt="Formation vidéo Cisco ICND1/CCENT : Réussir l examen 100-101"
+                  className="image-0-2-279 image-d3-0-2-296"
+                  src="https://static.pro_boa.com/bgplayer/FR_635/FR_635_bg_player_small.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className="cardDetails-0-2-283 cardDetails-d7-0-2-300"
+            >
+              <div
+                className="infos-0-2-284"
+              >
+                <div
+                  className="users-0-2-285 users-d8-0-2-301"
+                >
+                  <span
+                    className="icon-user-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-306 text-d0-0-2-307 detailsText-0-2-290 detailsText-d11-0-2-304"
+                  >
+                    1350
+                  </p>
+                </div>
+                <div
+                  className="time-0-2-286 time-d9-0-2-302"
+                >
+                  <span
+                    className="icon-date-assignment-alph-iconfont"
+                  />
+                  <p
+                    className="text-0-2-308 text-d0-0-2-309 detailsText-0-2-290 detailsText-d11-0-2-304"
+                  >
+                    2h
+                  </p>
+                </div>
+              </div>
+              <div
+                className="rate-0-2-289"
+              >
+                <div
+                  className="rateStarsGroup-0-2-310 rateStarsGroup-d0-0-2-312"
+                >
+                  <span
+                    className="starFill-0-2-311 starFill-d1-0-2-313"
+                  />
+                </div>
+                <p
+                  className="text-0-2-314 text-d0-0-2-315 detailsText-0-2-290 detailsText-d11-0-2-304"
+                >
+                  (
+                  123
+                  )
+                </p>
+              </div>
+            </div>
+            <p
+              className="text-0-2-316 text-d0-0-2-317 title-0-2-288 title-d10-0-2-303"
+            >
+              Cisco ICND1/CCENT : Réussir l examen 100-101
+            </p>
+            <div
+              className="button-0-2-287"
+            >
+              <button
+                className="button-0-2-318 button-d0-0-2-320"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-322 text-d0-0-2-323 text-0-2-319 text-d1-0-2-321"
+                >
+                  Ajouter
+                </p>
+              </button>
+            </div>
+          </div>
+          <div
+            className="shadowCard-0-2-324 shadowCard-d0-0-2-341"
+          />
+          <div
+            className="shadowCard-0-2-354 shadowCard-d0-0-2-371"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

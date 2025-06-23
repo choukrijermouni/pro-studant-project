@@ -1,0 +1,19 @@
+{
+  "invite": "Inviter des apprenants",
+  "inviteMessage": "Invitez un ou plusieurs apprenants à vous rejoindre",
+  "suivi": "Suivi des équipes ",
+  "download": "Télécharger",
+  "export": "Exporter les rapports",
+  "type": "Type de rapport",
+  "downloadSuivi": "Exporter le rapport de suivi",
+  "users": "Liste des apprenants",
+  "suiviMessage": "Suivez la progression de vos apprenants",
+  "allTeams": "Toutes les équipes",
+  "placeholder": "Sélectionnez une équipe",
+  "placeholderReport": "Sélectionnez un rapport",
+  "Team": "Équipe",
+  "noName": "Sans nom",
+  "report": "rapport",
+  "learnersList": "Liste des apprenants",
+  "teamLabel": "Nom d'équipe"
+}

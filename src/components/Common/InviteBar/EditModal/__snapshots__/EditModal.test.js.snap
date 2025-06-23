@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> EditModal --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="modal-0-2-1"
+  >
+    <div
+      className="header-0-2-2"
+    >
+      <p
+        className="text-0-2-14 text-d0-0-2-15"
+      >
+        Modifier l’équipe
+      </p>
+      <img
+        alt="notification"
+        src={Object {}}
+      />
+    </div>
+    <div>
+      <p
+        className="text-0-2-16 text-d0-0-2-17"
+      >
+        Choisissez une icône pour votre équipe
+      </p>
+      <div
+        className="invitesBox-0-2-5"
+      >
+        <div
+          className="avatars-0-2-3"
+        >
+          <div
+            className="overlay-0-2-4"
+          />
+          <div
+            className="flex-0-2-13"
+          >
+            <img
+              alt="teamTag"
+              className="teamTag-0-2-11"
+              id={0}
+              onClick={[Function]}
+              src={Object {}}
+            />
+          </div>
+          <div
+            className="flex-0-2-13"
+          >
+            <img
+              alt="teamTag"
+              className="teamTag-0-2-11"
+              id={1}
+              onClick={[Function]}
+              src={Object {}}
+            />
+          </div>
+          <div
+            className="flex-0-2-13"
+          >
+            <img
+              alt="teamTag"
+              className="teamTag-0-2-11"
+              id={2}
+              onClick={[Function]}
+              src={Object {}}
+            />
+          </div>
+          <div
+            className="flex-0-2-13"
+          >
+            <img
+              alt="teamTag"
+              className="teamTag-0-2-11"
+              id={3}
+              onClick={[Function]}
+              src={Object {}}
+            />
+          </div>
+          <div
+            className="flex-0-2-13"
+          >
+            <img
+              alt="teamTag"
+              className="teamTag-0-2-11"
+              id={4}
+              onClick={[Function]}
+              src={Object {}}
+            />
+          </div>
+          <span
+            className="icon-add-plus-alph-iconfont editIcon-0-2-6"
+          />
+        </div>
+      </div>
+      <div>
+        <p
+          className="text-0-2-18 text-d0-0-2-19"
+        >
+          Nom d'equipe 
+        </p>
+        <div
+          className="inputGroup-0-2-20"
+        >
+          
+          <textarea
+            className="input-0-2-9 input-0-2-21 input-d0-0-2-23"
+            disabled={false}
+            id="1"
+            placeholder="input placeholder"
+          />
+          
+        </div>
+        <p
+          className="text-0-2-24 text-d0-0-2-25"
+        >
+          Description
+        </p>
+        <div
+          className="inputGroup-0-2-26"
+        >
+          
+          <textarea
+            className="textArea-0-2-10 input-0-2-27 input-d0-0-2-29"
+            disabled={false}
+            id="1"
+            placeholder="Description"
+          />
+          
+        </div>
+      </div>
+      <hr
+        className="line-0-2-8"
+      />
+      <div
+        className="licenseButtons-0-2-7"
+      >
+        <button
+          className="button-0-2-30 button-d0-0-2-32"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-34 text-d0-0-2-35 text-0-2-31 text-d1-0-2-33"
+          >
+            Annuler
+          </p>
+        </button>
+        <button
+          className="button-0-2-36 button-d0-0-2-38"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-40 text-d0-0-2-41 text-0-2-37 text-d1-0-2-39"
+          >
+            Sauvgarder
+          </p>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

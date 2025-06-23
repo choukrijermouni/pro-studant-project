@@ -1,0 +1,12 @@
+{
+    "detachTitle": "Supprimer cet apprenant",
+    "subHeader": "Une fois qu'un apprenant est supprimé :",
+    "dot": "•",
+    "sendEmailText": "Nous l'informons par e-mail à l'adresse suivante : ",
+    "detachText": "Vous n'aurez la possibilité ni d'accéder à son profil et son historique, ni de télécharger son rapport de suivi.",
+    "confirmationText": "Êtes-vous sûr de vouloir supprimer cet apprenant ?",
+    "contactText": "Pour toutes vos questions, veuillez nous contacter par e-mail à l'adresse suivante :",
+    "orViaPhone": "ou par téléphone au",
+    "confirmButton": "Confirmer",
+    "abortButton": "Annuler"
+}

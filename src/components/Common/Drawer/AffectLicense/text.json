@@ -1,0 +1,17 @@
+{
+  "newLicense": {
+    "newLicenseTitle": "Affecter une licence",
+    "licenseType": "Type d'abonnement",
+    "licenseQuantity": "Quantité de licence",
+    "helpMessage": "Affectez une ou plusieurs licences à votre apprenant"
+  },
+  "submit": "Affecter",
+  "inform": "Informer l'apprenant de l'affectation des licences",
+  "licenseTypes": {
+    "Annual": "Annuel",
+    "Monthly": "Mensuel",
+    "Trial": "Essai",
+    "None": "Aucun"
+  },
+  "Other": "Autre quantité"
+}

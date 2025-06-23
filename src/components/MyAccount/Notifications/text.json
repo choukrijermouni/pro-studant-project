@@ -1,0 +1,12 @@
+{
+  "desktop": "Ordinateur",
+  "subDesktop": "Une bannière s'affiche dans le bureau",
+  "mobile": "Mobile",
+  "subMobile": "Une notification s'affiche dans votre téléphone",
+  "mail": "E-mail",
+  "subMail": "Un e-mail envoyé à votre boîte de réception",
+  "newAdmin": "Nouvel Administrateur",
+  "newManager": "Nouveau Manager d'équipe",
+  "newApp": "Nouvel Apprenant",
+  "save": "Enregistrer"
+}

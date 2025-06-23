@@ -1,0 +1,7 @@
+{
+  "title": "Retirer cet administrateur",
+  "confirmMessage": "Une fois q'un administrateur est retiré, il n'aura plus accès à l'espace Pro.",
+  "confirmMessageSecondary": "Êtes-vous sûr  de voloir retirer cet administrateur ?",
+  "confirm": "Confirmer",
+  "cancel": "Annuler"
+}

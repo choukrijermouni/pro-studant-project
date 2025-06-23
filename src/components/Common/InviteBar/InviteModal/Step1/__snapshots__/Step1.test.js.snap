@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Step1 --- Shallow Render Step1 component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="modal-0-2-1"
+  >
+    <div
+      className="header-0-2-2"
+    >
+      <img
+        alt="invitation"
+        src={Object {}}
+      />
+      <p
+        className="text-0-2-12 text-d0-0-2-13"
+      >
+        Inviter des apprenants
+      </p>
+    </div>
+    <div>
+      <p
+        className="text-0-2-14 text-d0-0-2-15"
+      >
+        Vous avez ajouter 
+        6
+         
+        nouveaux apprenants a votre organisme
+      </p>
+      <div
+        className="invitesBox-0-2-5"
+      >
+        <div
+          className="invites-0-2-6"
+        >
+          <span
+            className="icon-admins-alph-iconfont icon-0-2-7"
+          />
+          <p
+            className="text-0-2-16 text-d0-0-2-17"
+          >
+            Apprenants
+          </p>
+        </div>
+        <div
+          className="avatars-0-2-3"
+        >
+          <div
+            className="userImage-0-2-4"
+          >
+            <span
+              className="avatarGroup-0-2-18 avatarGroup-d0-0-2-19"
+            >
+              YS
+            </span>
+          </div>
+          <div
+            className="userImage-0-2-4"
+          >
+            <span
+              className="avatarGroup-0-2-20 avatarGroup-d0-0-2-21"
+            >
+              MD
+            </span>
+          </div>
+          <div
+            className="userImage-0-2-4"
+          >
+            <span
+              className="avatarGroup-0-2-22 avatarGroup-d0-0-2-23"
+            >
+              AK
+            </span>
+          </div>
+          <div
+            className="userImage-0-2-4"
+          >
+            <span
+              className="avatarGroup-0-2-24 avatarGroup-d0-0-2-25"
+            >
+              AH
+            </span>
+          </div>
+          <div
+            className="circle-0-2-11"
+          >
+            6
+          </div>
+          <span
+            className="icon-edit-alph-iconfont editIcon-0-2-8"
+          />
+        </div>
+      </div>
+      <p
+        className="text-0-2-26 text-d0-0-2-27"
+      >
+        Affecter une licence a vos apprenants
+      </p>
+      <div
+        className="licenseButtons-0-2-9"
+      >
+        <button
+          className="button-0-2-28 button-d0-0-2-30"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-32 text-d0-0-2-33 text-0-2-29 text-d1-0-2-31"
+          >
+            Annuel
+          </p>
+        </button>
+        <button
+          className="button-0-2-34 button-d0-0-2-36"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-38 text-d0-0-2-39 text-0-2-35 text-d1-0-2-37"
+          >
+            Mensuel
+          </p>
+        </button>
+      </div>
+      <p
+        className="text-0-2-40 text-d0-0-2-41"
+      >
+        Licences Mensuelles restantes : 
+      </p>
+      <p
+        className="text-0-2-42 text-d0-0-2-43"
+      >
+        Licences Annuel restantes : 
+      </p>
+      <hr
+        className="line-0-2-10"
+      />
+      <div
+        className="licenseButtons-0-2-9"
+      >
+        <button
+          className="button-0-2-44 button-d0-0-2-46"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-48 text-d0-0-2-49 text-0-2-45 text-d1-0-2-47"
+          >
+            Annuler
+          </p>
+        </button>
+        <button
+          className="button-0-2-50 button-d0-0-2-52"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-54 text-d0-0-2-55 text-0-2-51 text-d1-0-2-53"
+          >
+            Confirmer
+          </p>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

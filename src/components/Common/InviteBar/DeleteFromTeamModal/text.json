@@ -1,0 +1,12 @@
+{
+  "detachTitle": "Retirer des apprenants de leurs équipes",
+  "subHeader": "Une fois que des apprenants sont retirés de leurs équipes",
+  "dot": "•",
+  "sendEmailText": "Ils seront automatiquement informés par e-mail",
+  "detachText": "Ils n’auront plus accès à leur compte.",
+  "confirmationText": "Êtes-vous sûr de vouloir retirer ces apprenants de leurs équipes ?",
+  "contactText": "Pour toutes vos questions, contactez-nous par e-mail à l'adresse suivante :",
+  "orViaPhone": "ou par téléphone au",
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler"
+}

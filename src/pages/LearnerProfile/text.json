@@ -1,0 +1,21 @@
+{
+  "FeedbackAction": {
+    "affectLicenseSuccess": "Licence affectée avec succès",
+    "affectLicenseError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "deleteLearnerSuccess": "Apprenant supprimé avec succès",
+    "deleteLearnerError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "userAttachedToTeamSuccess": "Apprenant ajouté à l'équipe avec succès",
+    "userAttachedToTeamError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "userRemovedFromTeamSuccess": "Apprenant supprimé de l'équipe avec succès",
+    "userRemovedFromTeamError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "reinviteLearnerSuccess": "Apprenant réinvité avec succès",
+    "reinviteLearnerError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "cancelLeanerInvitationSuccess": "l'invitation de l'apprenant a été annulée avec succès",
+    "cancelLeanerInvitationError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "sendNotificationSuccess": "Votre demande a été prise en charge avec succès. Votre conseiller vous contactera dans les meilleurs délais.",
+    "sendNotificationError": "Une erreur est survenue, veuillez réessayer plus tard"
+  },
+  "Title": "Cet apprenant n’a pas encore obtenu de licence",
+  "SubTitle": "Veuillez affecter une licence à cet apprenant pour lui affecter des formations, suivre sa progression et accéder aux statistiques.",
+  "bannerText": "Cet apprenant n'a pas encore démarré son apprentissage."
+}

@@ -1,0 +1,18 @@
+{
+    "profile": "Mon compte",
+    "logout": "Se déconnecter",
+    "links": {
+        "start": "Bien commencer",
+        "admin": "Planifier votre réussite",
+        "understand": "Comprendre les rapports",
+        "news": "Nouveautés pro_boa",
+        "manager": "Guide du manager"
+    },
+    "qanda": "Q&A",
+    "help": "Centre d'aide",
+    "contact": "Contactez-nous",
+    "roleLabels": {
+        "4": "Administrateur",
+        "5": "Manager"
+    }
+}

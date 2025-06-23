@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> NoLicenceUserCard --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div
+  className="row-0-2-5 paper-0-2-9"
+>
+  <div
+    className="nameContainer-0-2-6"
+  >
+    <div
+      className="avatarContainer-0-2-11"
+    >
+      <div
+        className="dot-0-2-10"
+      />
+      <span
+        className="avatarGroup-0-2-12 avatarGroup-d0-0-2-13"
+      >
+        YS
+      </span>
+    </div>
+    <p
+      className="text-0-2-14 text-d0-0-2-15"
+    >
+      choukri jermouni
+    </p>
+  </div>
+  <button
+    className="button-0-2-16 button-d0-0-2-18"
+    onClick={[Function]}
+    type="button"
+  >
+    <p
+      className="text-0-2-20 text-d0-0-2-21 text-0-2-17 text-d1-0-2-19"
+    >
+      Affecter licence 
+    </p>
+  </button>
+</div>
+`;

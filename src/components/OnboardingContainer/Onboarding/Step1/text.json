@@ -1,0 +1,36 @@
+{
+  "title": " Nouvelles fonctionnalités disponibles sur votre nouvel espace Pro",
+  "subHeader": {
+    "first": "Bonjour",
+    "second": ", pro_boa innove à nouveau et lance une nouvelle version de l’espace Pro pour améliorer votre quotidien."
+  },
+  "subTitle": " Fonctionnalités et améliorations",
+  "discoverButton": "Découvrir",
+  "abortButton": "Passer cette étape",
+  "features": {
+    "feature1": {
+      "title": "Tableau de bord",
+      "body": ""
+    },
+    "feature2": {
+      "title": "Analytics",
+      "body": ""
+    },
+    "feature3": {
+      "title": "Actions rapides",
+      "body": "Invitez vos apprenants et affectez des licences en toute simplicité."
+    },
+    "feature4": {
+      "title": "Rapports",
+      "body": ""
+    },
+    "feature5": {
+      "title": "Transfert des licences",
+      "body": ""
+    },
+    "feature6": {
+      "title": "Fluidité de la création d'équipes",
+      "body": ""
+    }
+  }
+}

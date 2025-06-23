@@ -1,0 +1,10 @@
+{
+  "transferLicenseTitle": "Transférer la licence",
+  "existUser": "à un apprenant actif",
+  "existUserLabel": "Entrez le nom ou l'e-mail de l'apprenant",
+  "newUser": "à un nouvel apprenant",
+  "newUserLabel": "Entrez l'e-mail du nouvel apprenant",
+  "helpMessage": "Transférez la licence d'un apprenant à un autre",
+  "inform": "Informer l'apprenant de l'affectation des licences",
+  "buttonAffect": "Affecter"
+}

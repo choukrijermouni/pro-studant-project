@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Referral --- Shallow Render Referral component +++ render correctly and match snapshot 1`] = `
+Array [
+  <div
+    className="row-0-2-6 row-d2-0-2-10"
+  >
+    <div
+      className="col col-0-2-15 col-d3-0-2-19"
+    >
+      <p
+        className="text-0-2-20 text-d0-0-2-21"
+      >
+        Inviter des apprenants
+      </p>
+    </div>
+    <div
+      className="col col-0-2-25 col-d3-0-2-29"
+    >
+      <span
+        className="icon-roundeddown icon-0-2-2"
+        onClick={[Function]}
+      />
+    </div>
+  </div>,
+  <div
+    className="row row-0-2-32 row-d2-0-2-36"
+  >
+    <div
+      className="inputGroup-0-2-38"
+    >
+      
+      <textarea
+        className="invites-0-2-1 input-0-2-39 input-d0-0-2-41"
+        disabled={false}
+        id="1"
+        placeholder="Coper un e-mail ou une liste des emails"
+      />
+      
+    </div>
+    <button
+      className="button-0-2-42 button-d0-0-2-44"
+      onClick={[Function]}
+      type="button"
+    >
+      <p
+        className="text-0-2-46 text-d0-0-2-47 text-0-2-43 text-d1-0-2-45"
+      >
+        Inviter
+      </p>
+    </button>
+    <div
+      className="row row-0-2-50 row-d2-0-2-54"
+    >
+      <p
+        className="text-0-2-56 text-d0-0-2-57"
+      >
+        Cette section vous permettra d'ajouter un ou plusieurs apprenants en même temps
+      </p>
+    </div>
+  </div>,
+  <div
+    className="row-0-2-60 row-d2-0-2-64"
+  >
+    <div
+      className="col col-0-2-69 col-d3-0-2-73"
+    >
+      <p
+        className="text-0-2-74 text-d0-0-2-75"
+      >
+        Suivis d'équipes 
+      </p>
+    </div>
+    <div
+      className="col col-0-2-79 col-d3-0-2-83"
+    >
+      <span
+        className="icon-roundeddown icon-0-2-2"
+        onClick={[Function]}
+      />
+    </div>
+  </div>,
+  <div
+    className="row-0-2-86 row-d2-0-2-90"
+  >
+    <div
+      className="row row-0-2-94 row-d2-0-2-98"
+    >
+      <span
+        className="input-0-2-3"
+      >
+        <div
+          className="searchableSelectList-0-2-100"
+        >
+          <div
+            className="inputAndIcon-0-2-101 inputAndIcon-d0-0-2-103"
+          >
+            <div
+              className="inputGroup-0-2-105 inputGroup-d0-0-2-108"
+            >
+              <input
+                className="input-0-2-106 input-d1-0-2-109"
+                disabled={false}
+                id="country"
+                onChange={[Function]}
+                placeholder="Toutes les équipes"
+                type="text"
+              />
+            </div>
+            <div
+              className="icon-0-2-111 icon-d0-0-2-113"
+              onClick={[Function]}
+            >
+              <span
+                className="icon-roundeddown iconStyle-0-2-112 iconStyle-d1-0-2-114"
+              />
+            </div>
+          </div>
+          <div
+            className="suggestionGroupContainer-0-2-102 suggestionGroupContainer-d1-0-2-104"
+            id="country"
+          >
+            <div
+              className="suggestionGroup-0-2-115"
+            >
+              <div
+                className="emptySuggestionItem-0-2-116"
+              >
+                <label>
+                  not found
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </span>
+      <button
+        className="button-0-2-117 button-d0-0-2-119"
+        onClick={[Function]}
+        type="button"
+      >
+        <p
+          className="text-0-2-121 text-d0-0-2-122 text-0-2-118 text-d1-0-2-120"
+        >
+          Inviter
+        </p>
+      </button>
+    </div>
+    <div
+      className="row row-0-2-125 row-d2-0-2-129"
+    >
+      <p
+        className="text-0-2-131 text-d0-0-2-132"
+      >
+        Aide sur les suivis d'équipe
+      </p>
+    </div>
+  </div>,
+]
+`;

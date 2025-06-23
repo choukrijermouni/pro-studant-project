@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> UserCard --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div
+  className="row-0-2-5 paper-0-2-9"
+>
+  <div
+    className="inputGroup-0-2-10"
+  >
+    <input
+      className="input-0-2-12"
+      disabled={false}
+      id="desktop1"
+      type="checkbox"
+    />
+    <label
+      className="checkbox-0-2-11 checkbox-d0-0-2-14"
+    />
+    <label
+      className="label-0-2-13 checkBox-0-2-6"
+      htmlFor="desktop1"
+    >
+      
+    </label>
+  </div>
+  <div
+    className="avatarContainer-0-2-16"
+  >
+    <div
+      className="dot-0-2-15"
+    />
+    <span
+      className="avatarGroup-0-2-17 avatarGroup-d0-0-2-18"
+    >
+      YS
+    </span>
+  </div>
+  <p
+    className="text-0-2-19 text-d0-0-2-20"
+  />
+  <div
+    className="card-0-2-7"
+  >
+    <span
+      className="icon-creation-date-alph-iconfont icon-0-2-8"
+    />
+    <p
+      className="text-0-2-21 text-d0-0-2-22"
+    />
+  </div>
+  <div
+    className="card-0-2-7"
+  >
+    <span
+      className="icon-last-login-user-alph-iconfont icon-0-2-8"
+    />
+    <p
+      className="text-0-2-23 text-d0-0-2-24"
+    />
+  </div>
+  <div
+    className="card-0-2-7"
+  >
+    <span
+      className="icon-licenses-quantity-alph-iconfont icon-0-2-8"
+    />
+    <p
+      className="text-0-2-25 text-d0-0-2-26"
+    >
+      Licence annuel expire le  
+       
+    </p>
+  </div>
+</div>
+`;

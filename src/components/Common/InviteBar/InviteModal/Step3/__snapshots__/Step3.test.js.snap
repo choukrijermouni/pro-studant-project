@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Step3 --- Shallow Render Step3 component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="modal-0-2-1"
+  >
+    <img
+      alt="thankYou"
+      src={Object {}}
+    />
+    <p
+      className="text-0-2-3 text-d0-0-2-4"
+    >
+      Félicitation 
+      choukri
+      , vous avez bien inviter vos apprenants
+    </p>
+    <hr
+      className="line-0-2-2"
+    />
+    <div
+      className="row row-0-2-7 row-d2-0-2-11"
+    >
+      <div
+        className="content_2"
+      >
+        <button
+          className="button-0-2-13 button-d0-0-2-15"
+          onClick={[Function]}
+          type="button"
+        >
+           
+          <p
+            className="text-0-2-17 text-d0-0-2-18 text-0-2-14 text-d1-0-2-16"
+          >
+            Confirmer
+          </p>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> AddTeam --- Shallow Render AddTeam component +++ render correctly and match snapshot 1`] = `
+Array [
+  <div
+    className="row-0-2-6 row-d2-0-2-10"
+  >
+    <div
+      className="col col-0-2-15 col-d3-0-2-19"
+    >
+      <p
+        className="text-0-2-20 text-d0-0-2-21"
+      >
+        Ajouter le une equipe
+      </p>
+    </div>
+    <div
+      className="col col-0-2-25 col-d3-0-2-29"
+    >
+      <span
+        className="icon-roundeddown icon-0-2-2"
+        onClick={[Function]}
+      />
+    </div>
+  </div>,
+  <div
+    className="row-0-2-32 row-d2-0-2-36"
+  >
+    <div
+      className="row row-0-2-40 row-d2-0-2-44"
+    >
+      <span
+        className="input-0-2-3"
+      >
+        <div
+          className="searchableSelectList-0-2-46"
+        >
+          <div
+            className="inputAndIcon-0-2-47 inputAndIcon-d0-0-2-49"
+          >
+            <div
+              className="inputGroup-0-2-51 inputGroup-d0-0-2-54"
+            >
+              <input
+                className="input-0-2-52 input-d1-0-2-55"
+                disabled={false}
+                id="country"
+                onChange={[Function]}
+                placeholder="liste d'équipes"
+                type="text"
+              />
+            </div>
+            <div
+              className="icon-0-2-57 icon-d0-0-2-59"
+              onClick={[Function]}
+            >
+              <span
+                className="icon-roundeddown iconStyle-0-2-58 iconStyle-d1-0-2-60"
+              />
+            </div>
+          </div>
+          <div
+            className="suggestionGroupContainer-0-2-48 suggestionGroupContainer-d1-0-2-50"
+            id="country"
+          >
+            <div
+              className="suggestionGroup-0-2-61"
+            >
+              <div
+                className="emptySuggestionItem-0-2-62"
+              >
+                <label>
+                  not found
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </span>
+      <button
+        className="button-0-2-63 button-d0-0-2-65"
+        onClick={[Function]}
+        type="button"
+      >
+        <p
+          className="text-0-2-67 text-d0-0-2-68 text-0-2-64 text-d1-0-2-66"
+        >
+          Ajouter
+        </p>
+      </button>
+    </div>
+    <div
+      className="row row-0-2-71 row-d2-0-2-75"
+    >
+      <p
+        className="text-0-2-77 text-d0-0-2-78"
+      >
+        supprimer ce manager
+      </p>
+    </div>
+  </div>,
+]
+`;

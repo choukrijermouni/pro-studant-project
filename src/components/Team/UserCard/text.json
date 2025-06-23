@@ -1,0 +1,17 @@
+{
+  "expire": "Expire le  ",
+  "NV": "Sans licence",
+  "never": "Aucune activité",
+  "noDate": "Aucune date",
+  "creationDate": "Date de création",
+  "lastConnectionDate": "Date de dernière connexion",
+  "subscriptionExpirationDate": "Date d’expiration de l'abonnement",
+  "subscriptionExpired": "Licence expirée",
+  "userInvited": "Invité",
+  "licenseTypes": {
+    "Annual": "Licence annuelle",
+    "Monthly": "Licence mensuelle",
+    "Trial": "Licence d’essai",
+    "None": "Sans licence"
+  }
+}

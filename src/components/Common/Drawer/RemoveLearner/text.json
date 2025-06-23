@@ -1,0 +1,10 @@
+{
+  "title": "Supprimer l’apprenant",
+  "warning": "Attention! Vous ne pouvez pas supprimer cet apprenant car il a une licence active.",
+  "warningSecondary": "Si cet apprenant a quitté votre entreprise, veuillez contacter notre équipe pour obtenir de l'aide.",
+  "confirmMessage": "Si vous supprimer cet apprenant, vous n'aurez pas accès à son profil, ni à son historique d'apprentissage.",
+  "confirmMessageSecondary": "Voulez-vous vraiment supprimer cet apprenant?",
+  "contact": "Contacter le support par chat",
+  "confirm": "Confirmer la suppression",
+  "cancel": "Annuler"
+}

@@ -1,0 +1,370 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> OnBoardingAdminPage --- Shallow Render OnBoardingAdminPage component +++ render correctly and match snapshot 1`] = `
+<div
+  className="containerStyle-0-2-1"
+>
+  <div
+    className="containerPaperStyle-0-2-2 paper-0-2-5"
+  >
+    <div
+      className="bluePartStyle-0-2-3"
+    >
+      <div>
+        <object
+          className="image-0-2-7"
+          data={Object {}}
+          type="image/svg+xml"
+        >
+          svg-animation
+        </object>
+        <p
+          className="text-0-2-11 text-d0-0-2-12"
+        >
+          Bienvenue dans votre espace PRO !
+        </p>
+        <p
+          className="text-0-2-13 text-d0-0-2-14"
+        >
+          En complétant les informations de votre profil, vous êtes sûr d'obtenir la meilleure expérience d'pro_boa PRO!
+        </p>
+        <p
+          className="text-0-2-15 text-d0-0-2-16"
+        >
+          Étape 1 sur 2
+        </p>
+        <div>
+          <div
+            className="paperStyle-0-2-6 paper-0-2-17"
+          >
+            <object
+              className="logo-0-2-8"
+              data={Object {}}
+              type="image/svg+xml"
+            >
+              svg-animation
+            </object>
+            <p
+              className="text-0-2-18 text-d0-0-2-19"
+            >
+              Informations de profil
+            </p>
+            <span
+              className="icon-success-alph-iconfont iconClass-0-2-10"
+            />
+          </div>
+          <div
+            className="paperStyleDisabled-0-2-9 paper-0-2-20"
+          >
+            <object
+              className="logo-0-2-8"
+              data={Object {}}
+              type="image/svg+xml"
+            >
+              svg-animation
+            </object>
+            <p
+              className="text-0-2-21 text-d0-0-2-22"
+            >
+              Vos centres d'intérêt
+            </p>
+            <span
+              className="icon-success-alph-iconfont iconClass-0-2-10"
+            />
+          </div>
+        </div>
+        <p
+          className="text-0-2-23 text-d0-0-2-24"
+          onClick={[Function]}
+        >
+          Passer toutes les étapes
+        </p>
+      </div>
+    </div>
+    <div
+      className="whitePartStyle-0-2-4"
+    >
+      <div
+        className="container-0-2-52 container-d1-0-2-56 rootClass-0-2-31"
+      >
+        <p
+          className="text-0-2-59 text-d0-0-2-60"
+        >
+          Bonjour, c'est votre premiere connexion a votre espace PRO.
+        </p>
+        <div
+          className="row-0-2-63 row-d2-0-2-67"
+        >
+          <div
+            className="avatarGroupClass-0-2-33"
+          >
+            <img
+              className="avatarGroup-0-2-69 avatarGroup-d0-0-2-70"
+              src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+            />
+          </div>
+          <div
+            className="subContainerClass-0-2-30"
+          >
+            <div>
+              <div
+                className="socialGroupClass-0-2-34"
+              >
+                <span
+                  className="deleteBoxClass-0-2-36"
+                >
+                  <span
+                    className="icon-delete-alph-iconfont centerIconClass-0-2-35"
+                  />
+                </span>
+                <span
+                  className="editBoxClass-0-2-37"
+                >
+                  <label
+                    className="pointerClass-0-2-47"
+                    htmlFor="avatar"
+                  >
+                    <span
+                      className="icon-edit-alph-iconfont centerIconClass-0-2-35"
+                    />
+                  </label>
+                  <input
+                    accept="image/png, image/jpeg"
+                    className="inputClass-0-2-46"
+                    id="avatar"
+                    name="avatar"
+                    type="file"
+                  />
+                </span>
+                <span
+                  className="facebookBoxClass-0-2-38"
+                >
+                  <span
+                    className="icon-facebook-alph-iconfont centerIconClass-0-2-35"
+                  />
+                </span>
+                <span
+                  className="twitterBoxClass-0-2-39"
+                >
+                  <span
+                    className="icon-twitter-alph-iconfont centerIconClass-0-2-35"
+                  />
+                </span>
+                <span
+                  className="linkedinBoxClass-0-2-40"
+                >
+                  <span
+                    className="icon-linkedin-alph-iconfont centerIconClass-0-2-35"
+                  />
+                </span>
+              </div>
+            </div>
+            <div>
+              <p
+                className="text-0-2-71 text-d0-0-2-72"
+              >
+                By uploading your photo, we can easily find you :)
+              </p>
+            </div>
+          </div>
+        </div>
+        <form
+          className="formRootClass-0-2-41"
+        >
+          <div
+            className="formRowClass-0-2-42 row-0-2-75 row-d2-0-2-79"
+          >
+            <div
+              className="firstColClass-0-2-43"
+            >
+              <div
+                className="inputGroup-0-2-81 inputGroup-d0-0-2-84"
+              >
+                <p
+                  className="text-0-2-87 text-d0-0-2-88"
+                >
+                  Prenom
+                </p>
+                <input
+                  className="input-0-2-82 input-d1-0-2-85 textInputStyle-0-2-45"
+                  disabled={false}
+                  name="LastName"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="Prenom"
+                  type="text"
+                  value=""
+                />
+                <div
+                  className="icon-0-2-89 icon-d0-0-2-91"
+                >
+                  <span
+                    className="iconStyle-0-2-90 iconStyle-d1-0-2-92"
+                  />
+                </div>
+              </div>
+              <div
+                className="selectListContainer-0-2-93 selectListContainer-d0-0-2-96"
+              >
+                <p
+                  className="text-0-2-99 text-d0-0-2-100"
+                >
+                  Fonction
+                </p>
+                <div
+                  className="selectList-0-2-94 selectList-d1-0-2-97"
+                  onClick={[Function]}
+                >
+                  <p
+                    className="text-0-2-101 text-d0-0-2-102"
+                  >
+                    Education
+                  </p>
+                  <div
+                    className="icon-0-2-103 icon-d0-0-2-105"
+                  >
+                    <span
+                      className="icon-roundeddown iconStyle-0-2-104 iconStyle-d1-0-2-106"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="suggestionGroupContainer-0-2-95 suggestionGroupContainer-d2-0-2-98"
+                >
+                  <div
+                    className="suggestionGroup-0-2-107"
+                  >
+                    <div
+                      className="suggestionItem-0-2-108"
+                      onClick={[Function]}
+                    >
+                      <p
+                        className="text-0-2-109 text-d0-0-2-110"
+                      >
+                        Education
+                      </p>
+                    </div>
+                    <div
+                      className="suggestionItem-0-2-111"
+                      onClick={[Function]}
+                    >
+                      <p
+                        className="text-0-2-112 text-d0-0-2-113"
+                      >
+                        Dev
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="secondColClass-0-2-44"
+            >
+              <div
+                className="inputGroup-0-2-114 inputGroup-d0-0-2-117"
+              >
+                <p
+                  className="text-0-2-120 text-d0-0-2-121"
+                >
+                  Nom
+                </p>
+                <input
+                  className="input-0-2-115 input-d1-0-2-118 textInputStyle-0-2-45"
+                  disabled={false}
+                  name="FirstName"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="Nom"
+                  type="text"
+                  value=""
+                />
+                <div
+                  className="icon-0-2-122 icon-d0-0-2-124"
+                >
+                  <span
+                    className="iconStyle-0-2-123 iconStyle-d1-0-2-125"
+                  />
+                </div>
+              </div>
+              <div
+                className="inputGroup-0-2-126 inputGroup-d0-0-2-129"
+              >
+                <p
+                  className="text-0-2-132 text-d0-0-2-133"
+                >
+                  Phone
+                </p>
+                <input
+                  className="input-0-2-127 input-d1-0-2-130 textInputStyle-0-2-45"
+                  disabled={false}
+                  name="Phone"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="Phone"
+                  type="text"
+                  value=""
+                />
+                <div
+                  className="icon-0-2-134 icon-d0-0-2-136"
+                >
+                  <span
+                    className="iconStyle-0-2-135 iconStyle-d1-0-2-137"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="appTextContainer-0-2-29"
+            >
+              <p
+                className="text-0-2-138 text-d0-0-2-139"
+              >
+                Validate your phone number to be able to use the mobile application. 
+              </p>
+              <p
+                className="text-0-2-140 text-d0-0-2-141"
+              >
+                Envoyer moi le lien de l'application mobile en SMS. 
+              </p>
+            </div>
+          </div>
+          <div
+            className="row-0-2-144 row-d2-0-2-148"
+          >
+            <div
+              className="horizantalDivider-0-2-28"
+            />
+            <div
+              className="buttonsContainer-0-2-50"
+            >
+              <button
+                className="button-0-2-150 button-d0-0-2-152"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-154 text-d0-0-2-155 text-0-2-151 text-d1-0-2-153"
+                >
+                  Passer cette étape
+                </p>
+              </button>
+              <button
+                className="button-0-2-156 button-d0-0-2-158"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-160 text-d0-0-2-161 text-0-2-157 text-d1-0-2-159"
+                >
+                  Continuer
+                </p>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

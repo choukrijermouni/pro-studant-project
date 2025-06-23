@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> TransferLicence --- Shallow Render TransferLicence component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="modal-0-2-1"
+  >
+    <div
+      className="header-0-2-2"
+    >
+      <img
+        alt="invitation"
+        src={Object {}}
+      />
+      <p
+        className="text-0-2-12 text-d0-0-2-13"
+      >
+        Confirmation du transfert de la licence
+      </p>
+      <div>
+        <p
+          className="text-0-2-14 text-d0-0-2-15"
+        >
+          Après la confirmation du transfert de la licence voilà ce qui vas se passer :
+        </p>
+        <div
+          className="textStyle-0-2-4"
+        >
+          <p
+            className="text-0-2-16 text-d0-0-2-17"
+          >
+            •
+          </p>
+          <p
+            className="text-0-2-18 text-d0-0-2-19"
+          >
+            Nous enverrons un e-mail de transfert/ à : p.germain@tesla.com
+          </p>
+        </div>
+        <div
+          className="textStyle-0-2-4"
+        >
+          <p
+            className="text-0-2-20 text-d0-0-2-21"
+          >
+            •
+          </p>
+          <p
+            className="text-0-2-22 text-d0-0-2-23"
+          >
+            L’apprenant (p.germain@tesla.com) sera sans licence
+          </p>
+        </div>
+        <div
+          className="textStyle-0-2-4"
+        >
+          <p
+            className="text-0-2-24 text-d0-0-2-25"
+          >
+            •
+          </p>
+          <p
+            className="text-0-2-26 text-d0-0-2-27"
+          >
+            L'apprenant (j.mark@tesla.com) va reçu un abonnement Mensuel avec la durée de 2 mois et 4 jours.
+          </p>
+        </div>
+        <p
+          className="text-0-2-28 text-d0-0-2-29"
+        >
+          Voulez-vous vraiment transférer la licence ?
+        </p>
+        <p
+          className="text-0-2-30 text-d0-0-2-31"
+        >
+          Si vous avez des questions, contactez-nous via info@pro_boa.com ou appelez-nous au  +33 01 77 62 45 80
+        </p>
+      </div>
+    </div>
+    <div
+      className="controlStyle-0-2-3"
+    >
+      <hr
+        className="line-0-2-10"
+      />
+      <div
+        className="licenseButtons-0-2-9"
+      >
+        <button
+          className="button-0-2-32 button-d0-0-2-34"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-36 text-d0-0-2-37 text-0-2-33 text-d1-0-2-35"
+          >
+            Annuler
+          </p>
+        </button>
+        <button
+          className="button-0-2-38 button-d0-0-2-40"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-42 text-d0-0-2-43 text-0-2-39 text-d1-0-2-41"
+          >
+            Confirmer
+          </p>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

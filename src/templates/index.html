@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="shortcut icon" type="image/ico" href="https://static.pro_boa.com/images/favicon.ico">
+  <title>Pro - pro_boa</title>
+  <base href="/" />
+  <script src="https://api.pro_boa.net/api/configuration" type="text/javascript"></script>
+  <script async>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != "dataLayer" ? "&l=" + l : ""; j.async = true; j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", window.pro_boaConfiguration.GoogleTagManagerPro);
+  </script>
+</head>
+
+<body>
+  <noscript>
+    You need to enable JavaScript to run this app.
+  </noscript>
+  <div id="root"></div>
+  <script>
+    const body = document.getElementsByTagName('body')[0]
+    const head = document.getElementsByTagName('head')[0]
+    const firstChild = document.body.firstChild
+    const { FontLink, IconLink, FavIconLink } = window.pro_boaConfiguration
+    const fontLink = document.createElement('link')
+    fontLink.href = `${FontLink}muli.css`
+    fontLink.rel = 'stylesheet'
+    const iconLink = document.createElement('link')
+    iconLink.href = IconLink
+    iconLink.rel = 'stylesheet'
+    const faviconLink = document.createElement('link')
+    faviconLink.href = FavIconLink
+    faviconLink.rel = 'shortcut icon'
+    faviconLink.type = 'image/ico'
+    const noscriptElement = document.createElement('noscript')
+    const iframe = document.createElement('iframe')
+    iframe.setAttribute('src', `https://www.googletagmanager.com/ns.html?id=${window.pro_boaConfiguration.GoogleTagManagerPro}`)
+    iframe.setAttribute('height', '0')
+    iframe.setAttribute('width', '0')
+    iframe.setAttribute('style', 'display:none;visibility:hidden')
+    noscriptElement.appendChild(iframe)
+    firstChild.parentNode.insertBefore(noscriptElement, firstChild)
+    head.appendChild(faviconLink)
+    body.appendChild(iconLink)
+    body.appendChild(fontLink)
+  </script>
+</body>
+
+</html>

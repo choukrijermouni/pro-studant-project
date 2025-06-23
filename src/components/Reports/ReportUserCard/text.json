@@ -1,0 +1,13 @@
+{
+  "license": "L.",
+  "NV": "-",
+  "affectationDate": "date d’affectation",
+  "whoDidAffectation": "Affecté par",
+  "License": "Licence",
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle",
+    "Trial": "Essai",
+    "None": "Aucune"
+  }
+}

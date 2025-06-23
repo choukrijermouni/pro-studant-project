@@ -1,0 +1,48 @@
+{
+  "duration": "Total de la durée de visionnage",
+  "work": "Compétences",
+  "hours": "Heures",
+  "today": "Aujourd'hui",
+  "yesterday": "Hier",
+  "months": [
+    "Janvier",
+    "Février",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juillet",
+    "Août",
+    "Septembre",
+    "Octobre",
+    "Novembre",
+    "Décembre"
+  ],
+  "weekDays": [
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Jeudi",
+    "Vendredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "week2": "Semaine 2",
+  "week3": "Semaine 3",
+  "week4": "Semaine 4",
+  "week1": "Semaine 1",
+  "icons": {
+    "infra": "Infrastructure",
+    "dev": "Développement",
+    "animation": "Animation",
+    "virtual": "Virtualisation",
+    "office": "Bureautique",
+    "network": "Réseau",
+    "bd": "Base de données",
+    "security": "Sécurité"
+  },
+  "downloadSuivi": "Exporter les rapports",
+  "downloadReport": "Exporter le rapport",
+  "createLearner": "Créer un apprenant",
+  "addLearnerTitle": "Créer un apprenant"
+}

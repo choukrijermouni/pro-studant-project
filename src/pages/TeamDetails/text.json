@@ -1,0 +1,7 @@
+{
+  "success": "success",
+  "detachSuccess": "Le manager est retiré de l'équipe avec succès",
+  "attachSuccess": "Le manager est ajouté à l'équipe avec succès",
+  "updateTeamSuccess": "L’équipe est mise à jour avec succès",
+  "updateTeamFailed": "Une erreur est survenue, veuillez réessayer plus tard"
+}

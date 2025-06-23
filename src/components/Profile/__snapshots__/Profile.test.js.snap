@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Profile --- Shallow Render Profile component +++ render correctly and match snapshot 1`] = `
+<div
+  className="root-0-2-1"
+>
+  <div
+    className="notificationContainer-0-2-11"
+  >
+    <div
+      className="notificationStyle-0-2-6"
+    >
+      <div
+        className="alert-0-2-7"
+      >
+        3
+      </div>
+    </div>
+    <img
+      alt="notification"
+      className="iconHeader-0-2-4"
+      onClick={[Function]}
+      src={Object {}}
+    />
+  </div>
+  <div>
+    <div
+      className="container-0-2-5"
+    >
+      <div
+        className="avatar-0-2-2"
+      >
+        <span
+          className="avatarGroup-0-2-19 avatarGroup-d0-0-2-20"
+        >
+          MD
+        </span>
+      </div>
+      <div
+        className="font-0-2-3"
+      >
+        <p
+          className="text-0-2-21 text-d0-0-2-22"
+          onClick={[Function]}
+        >
+          Mon Compte
+        </p>
+      </div>
+    </div>
+  </div>
+  <div>
+    <img
+      alt="notification"
+      className="iconHeader-0-2-4"
+      src={Object {}}
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,662 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> LearnerHistory --- Shallow Render LearnerHistory component +++ render correctly and match snapshot 1`] = `
+<div
+  className="root-0-2-15"
+>
+  <div
+    className="container-0-2-3"
+  >
+    <img
+      alt="logo"
+      className="size-0-2-7"
+      src={Object {}}
+    />
+    <div
+      className="iconHolder-0-2-14"
+      onClick={[Function]}
+    >
+      <span
+        className="icon-navigationmenu-alph-iconfont iconHeader-0-2-12"
+      />
+       
+    </div>
+  </div>
+  <div
+    className="side-0-2-19 side-d0-0-2-28"
+  >
+    <div
+      className="container-0-2-26"
+    />
+    <div
+      className="wizard-0-2-20"
+    >
+      <img
+        alt="wizard"
+        className="buttonIcon-0-2-24"
+        src={Object {}}
+      />
+      <span
+        className="buttonTitle-0-2-21"
+      >
+        <p
+          className="text-0-2-29 text-d0-0-2-30"
+        >
+          WIZARD
+        </p>
+      </span>
+      <span
+        className="buttonSub-0-2-22"
+      >
+        <p
+          className="text-0-2-31 text-d0-0-2-32"
+        >
+          Créer rapidement vos équipe
+        </p>
+      </span>
+    </div>
+    <div
+      className="kids-0-2-27"
+    >
+      <div>
+        <div
+          className="menuItemGroup-0-2-34"
+        >
+          <input
+            checked={false}
+            className="input-0-2-36 input-d1-0-2-39"
+            id="home"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="home"
+          />
+          <div
+            className="selector-0-2-37"
+          />
+          <div
+            className="menuItem-0-2-35 menuItem-d0-0-2-38"
+          >
+            <span>
+              <span
+                className="icon-home-alph-iconfont icon-0-2-33"
+              />
+               
+              Accueil
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-40"
+        >
+          <input
+            checked={false}
+            className="input-0-2-42 input-d1-0-2-45"
+            id="learners"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="learners"
+          />
+          <div
+            className="selector-0-2-43"
+          />
+          <div
+            className="menuItem-0-2-41 menuItem-d0-0-2-44"
+          >
+            <span>
+              <span
+                className="icon-users-alph-iconfont icon-0-2-33"
+              />
+               
+              Apprenants
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-46"
+        >
+          <input
+            checked={false}
+            className="input-0-2-48 input-d1-0-2-51"
+            id="teams"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="teams"
+          />
+          <div
+            className="selector-0-2-49"
+          />
+          <div
+            className="menuItem-0-2-47 menuItem-d0-0-2-50"
+          >
+            <span>
+              <span
+                className="icon-temas-alph-iconfont icon-0-2-33"
+              />
+               
+              Equipes
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-52"
+        >
+          <input
+            checked={false}
+            className="input-0-2-54 input-d1-0-2-57"
+            id="teamsManager"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="teamsManager"
+          />
+          <div
+            className="selector-0-2-55"
+          />
+          <div
+            className="menuItem-0-2-53 menuItem-d0-0-2-56"
+          >
+            <span>
+              <span
+                className="icon-admins-alph-iconfont icon-0-2-33"
+              />
+               
+              Managers d'equipes
+            </span>
+          </div>
+        </div>
+        <div
+          className="menuItemGroup-0-2-58"
+        >
+          <input
+            checked={false}
+            className="input-0-2-60 input-d1-0-2-63"
+            id="rapports"
+            name="MenuItems"
+            onChange={[Function]}
+            type="radio"
+            value="rapports"
+          />
+          <div
+            className="selector-0-2-61"
+          />
+          <div
+            className="menuItem-0-2-59 menuItem-d0-0-2-62"
+          >
+            <span>
+              <span
+                className="icon-reports-alph-iconfont icon-0-2-33"
+              />
+               
+              Rapports
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="top-0-2-64"
+  >
+    <div
+      className="root-0-2-65 root-d0-0-2-66"
+    >
+      <div
+        className="root-0-2-67 root-d0-0-2-71"
+      >
+        <div
+          className="inputGroup-0-2-68"
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <div
+            className="inputGroup-0-2-73 inputGroup-d0-0-2-76"
+          >
+            <input
+              className="input-0-2-74 input-d1-0-2-77"
+              disabled={false}
+              id="unique_ID_1"
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Rechercher"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="icon-0-2-79 icon-d0-0-2-81"
+            onClick={[Function]}
+          >
+            <span
+              className="icon-search-alph-iconfont iconStyle-0-2-80 iconStyle-d1-0-2-82"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="root-0-2-83"
+    >
+      <div
+        className="notificationContainer-0-2-93"
+      >
+        <div
+          className="notificationStyle-0-2-88"
+        >
+          <div
+            className="alert-0-2-89"
+          >
+            3
+          </div>
+        </div>
+        <img
+          alt="notification"
+          className="iconHeader-0-2-86"
+          onClick={[Function]}
+          src={Object {}}
+        />
+      </div>
+      <div>
+        <div
+          className="container-0-2-87"
+        >
+          <div
+            className="avatar-0-2-84"
+          >
+            <span
+              className="avatarGroup-0-2-101 avatarGroup-d0-0-2-102"
+            >
+              MD
+            </span>
+          </div>
+          <div
+            className="font-0-2-85"
+          >
+            <p
+              className="text-0-2-103 text-d0-0-2-104"
+              onClick={[Function]}
+            >
+              Mon Compte
+            </p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <img
+          alt="notification"
+          className="iconHeader-0-2-86"
+          src={Object {}}
+        />
+      </div>
+    </div>
+  </div>
+  <main
+    className="main-0-2-4"
+  >
+    <div
+      className="content-0-2-5"
+    >
+      <div>
+        <div
+          className="iconContainer-0-2-2"
+        >
+          <span
+            className="icon-roundedleft icon-0-2-1"
+          />
+        </div>
+        <div>
+          <div
+            className="container-0-2-115 container-d1-0-2-119"
+          >
+            <div
+              className="userContainer-0-2-113"
+            >
+              <div
+                className="avatarContainer-0-2-112"
+              >
+                <div
+                  className="dot-0-2-110"
+                />
+                <img
+                  className="avatarGroup-0-2-122 avatarGroup-d0-0-2-123"
+                  src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+                />
+              </div>
+              <p
+                className="text-0-2-124 text-d0-0-2-125"
+              >
+                choukri jermouni
+              </p>
+            </div>
+            <div
+              className="conainerClass-0-2-106"
+            >
+              <div
+                className="textClass-0-2-107"
+              >
+                <p
+                  className="text-0-2-126 text-d0-0-2-127"
+                >
+                  Historique de connexion
+                </p>
+                <div
+                  className="help-0-2-105"
+                >
+                  <p
+                    className="text-0-2-128 text-d0-0-2-129"
+                  >
+                    ?
+                  </p>
+                </div>
+              </div>
+              <div
+                className="buttonClass-0-2-108"
+              >
+                <span
+                  className="icon-download-alph-iconfont icon-0-2-111"
+                />
+                <p
+                  className="text-0-2-130 text-d0-0-2-131"
+                >
+                  Exporter
+                </p>
+              </div>
+            </div>
+            <table
+              className="root-0-2-145 root-d0-0-2-146"
+            >
+              <thead>
+                <tr
+                  className="row-0-2-147 row-d0-0-2-148"
+                >
+                  <td>
+                    <p
+                      className="text-0-2-149 text-d0-0-2-150"
+                    >
+                      Date/heure
+                    </p>
+                  </td>
+                  <td>
+                    <p
+                      className="text-0-2-151 text-d0-0-2-152"
+                    >
+                      Type d'accès
+                    </p>
+                  </td>
+                  <td>
+                    <p
+                      className="text-0-2-153 text-d0-0-2-154"
+                    >
+                      Emplacement
+                    </p>
+                  </td>
+                  <td>
+                    <p
+                      className="text-0-2-155 text-d0-0-2-156"
+                    >
+                      Durée
+                    </p>
+                  </td>
+                </tr>
+              </thead>
+              <tbody
+                className="root-0-2-157 root-d0-0-2-158"
+              >
+                <tr
+                  className="row-0-2-159 row-d0-0-2-160"
+                >
+                  <td>
+                    05:33 (il y a 4 minutes)
+                  </td>
+                  <td>
+                    Navigateur (Chrome)
+                  </td>
+                  <td>
+                    France (196.00.000.134)
+                  </td>
+                  <td>
+                    3 heures
+                  </td>
+                </tr>
+                <tr
+                  className="row-0-2-161 row-d0-0-2-162"
+                >
+                  <td>
+                    05:33 (il y a 4 minutes)
+                  </td>
+                  <td>
+                    Navigateur (Chrome)
+                  </td>
+                  <td>
+                    France (196.00.000.134)
+                  </td>
+                  <td>
+                    3 heures
+                  </td>
+                </tr>
+                <tr
+                  className="row-0-2-163 row-d0-0-2-164"
+                >
+                  <td>
+                    05:33 (il y a 4 minutes)
+                  </td>
+                  <td>
+                    Navigateur (Chrome)
+                  </td>
+                  <td>
+                    France (196.00.000.134)
+                  </td>
+                  <td>
+                    3 heures
+                  </td>
+                </tr>
+                <tr
+                  className="row-0-2-165 row-d0-0-2-166"
+                >
+                  <td>
+                    05:33 (il y a 4 minutes)
+                  </td>
+                  <td>
+                    Navigateur (Chrome)
+                  </td>
+                  <td>
+                    France (196.00.000.134)
+                  </td>
+                  <td>
+                    3 heures
+                  </td>
+                </tr>
+                <tr
+                  className="row-0-2-167 row-d0-0-2-168"
+                >
+                  <td>
+                    05:33 (il y a 4 minutes)
+                  </td>
+                  <td>
+                    Navigateur (Chrome)
+                  </td>
+                  <td>
+                    France (196.00.000.134)
+                  </td>
+                  <td>
+                    3 heures
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="rowStyle-0-2-171 row-0-2-174 row-d2-0-2-178"
+    >
+      <div
+        className="side-0-2-169"
+      >
+        <div
+          className="content-0-2-170"
+        >
+          <div
+            className="row-0-2-185 row-d2-0-2-189"
+          >
+            <div
+              className="col col-0-2-194 col-d3-0-2-198"
+            >
+              <p
+                className="text-0-2-199 text-d0-0-2-200"
+              >
+                Inviter des apprenants
+              </p>
+            </div>
+            <div
+              className="col col-0-2-204 col-d3-0-2-208"
+            >
+              <span
+                className="icon-roundeddown icon-0-2-181"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+          <div
+            className="row row-0-2-211 row-d2-0-2-215"
+          >
+            <div
+              className="inputGroup-0-2-217"
+            >
+              
+              <textarea
+                className="invites-0-2-180 input-0-2-218 input-d0-0-2-220"
+                disabled={false}
+                id="1"
+                placeholder="Coper un e-mail ou une liste des emails"
+              />
+              
+            </div>
+            <button
+              className="button-0-2-221 button-d0-0-2-223"
+              onClick={[Function]}
+              type="button"
+            >
+              <p
+                className="text-0-2-225 text-d0-0-2-226 text-0-2-222 text-d1-0-2-224"
+              >
+                Inviter
+              </p>
+            </button>
+            <div
+              className="row row-0-2-229 row-d2-0-2-233"
+            >
+              <p
+                className="text-0-2-235 text-d0-0-2-236"
+              >
+                Cette section vous permettra d'ajouter un ou plusieurs apprenants en même temps
+              </p>
+            </div>
+          </div>
+          <div
+            className="row-0-2-239 row-d2-0-2-243"
+          >
+            <div
+              className="col col-0-2-248 col-d3-0-2-252"
+            >
+              <p
+                className="text-0-2-253 text-d0-0-2-254"
+              >
+                Suivis d'équipes 
+              </p>
+            </div>
+            <div
+              className="col col-0-2-258 col-d3-0-2-262"
+            >
+              <span
+                className="icon-roundeddown icon-0-2-181"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+          <div
+            className="row-0-2-265 row-d2-0-2-269"
+          >
+            <div
+              className="row row-0-2-273 row-d2-0-2-277"
+            >
+              <span
+                className="input-0-2-182"
+              >
+                <div
+                  className="searchableSelectList-0-2-279"
+                >
+                  <div
+                    className="inputAndIcon-0-2-280 inputAndIcon-d0-0-2-282"
+                  >
+                    <div
+                      className="inputGroup-0-2-284 inputGroup-d0-0-2-287"
+                    >
+                      <input
+                        className="input-0-2-285 input-d1-0-2-288"
+                        disabled={false}
+                        id="country"
+                        onChange={[Function]}
+                        placeholder="Toutes les équipes"
+                        type="text"
+                      />
+                    </div>
+                    <div
+                      className="icon-0-2-290 icon-d0-0-2-292"
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="icon-roundeddown iconStyle-0-2-291 iconStyle-d1-0-2-293"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="suggestionGroupContainer-0-2-281 suggestionGroupContainer-d1-0-2-283"
+                    id="country"
+                  >
+                    <div
+                      className="suggestionGroup-0-2-294"
+                    >
+                      <div
+                        className="emptySuggestionItem-0-2-295"
+                      >
+                        <label>
+                          not found
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </span>
+              <button
+                className="button-0-2-296 button-d0-0-2-298"
+                onClick={[Function]}
+                type="button"
+              >
+                <p
+                  className="text-0-2-300 text-d0-0-2-301 text-0-2-297 text-d1-0-2-299"
+                >
+                  Inviter
+                </p>
+              </button>
+            </div>
+            <div
+              className="row row-0-2-304 row-d2-0-2-308"
+            >
+              <p
+                className="text-0-2-310 text-d0-0-2-311"
+              >
+                Aide sur les suivis d'équipe
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+`;

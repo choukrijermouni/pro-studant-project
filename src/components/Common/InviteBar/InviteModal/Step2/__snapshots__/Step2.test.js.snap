@@ -1,0 +1,374 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Step2 --- Shallow Render Step2 component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="modal-0-2-1"
+  >
+    <p
+      className="text-0-2-8 text-d0-0-2-9"
+    >
+      Modifier apprenants
+    </p>
+    <span
+      className="search-0-2-4"
+    >
+      <div
+        className="root-0-2-10 root-d0-0-2-14"
+      >
+        <div
+          className="inputGroup-0-2-11"
+        >
+          <div
+            className="inputGroup-0-2-16 inputGroup-d0-0-2-19"
+          >
+            <input
+              className="input-0-2-17 input-d1-0-2-20"
+              disabled={false}
+              id="unique_ID_1"
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Search"
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="icon-0-2-22 icon-d0-0-2-24"
+          >
+            <span
+              className="icon-search-alph-iconfont iconStyle-0-2-23 iconStyle-d1-0-2-25"
+            />
+          </div>
+        </div>
+      </div>
+    </span>
+    <div
+      className="emailsBox-0-2-7"
+    >
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-26 avatarGroup-d0-0-2-27"
+          >
+            ys
+          </span>
+          <p
+            className="text-0-2-28 text-d0-0-2-29"
+          >
+            choukri@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-30 button-d0-0-2-32"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-34 text-d0-0-2-35 text-0-2-31 text-d1-0-2-33"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-36 avatarGroup-d0-0-2-37"
+          >
+            md
+          </span>
+          <p
+            className="text-0-2-38 text-d0-0-2-39"
+          >
+            Richard@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-40 button-d0-0-2-42"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-44 text-d0-0-2-45 text-0-2-41 text-d1-0-2-43"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-46 avatarGroup-d0-0-2-47"
+          >
+            ah
+          </span>
+          <p
+            className="text-0-2-48 text-d0-0-2-49"
+          >
+            Richard@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-50 button-d0-0-2-52"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-54 text-d0-0-2-55 text-0-2-51 text-d1-0-2-53"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-56 avatarGroup-d0-0-2-57"
+          >
+            ag
+          </span>
+          <p
+            className="text-0-2-58 text-d0-0-2-59"
+          >
+            ayman@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-60 button-d0-0-2-62"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-64 text-d0-0-2-65 text-0-2-61 text-d1-0-2-63"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-66 avatarGroup-d0-0-2-67"
+          >
+            ak
+          </span>
+          <p
+            className="text-0-2-68 text-d0-0-2-69"
+          >
+            aymano@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-70 button-d0-0-2-72"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-74 text-d0-0-2-75 text-0-2-71 text-d1-0-2-73"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-76 avatarGroup-d0-0-2-77"
+          >
+            mam
+          </span>
+          <p
+            className="text-0-2-78 text-d0-0-2-79"
+          >
+            marouan@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-80 button-d0-0-2-82"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-84 text-d0-0-2-85 text-0-2-81 text-d1-0-2-83"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-86 avatarGroup-d0-0-2-87"
+          >
+            cb
+          </span>
+          <p
+            className="text-0-2-88 text-d0-0-2-89"
+          >
+            choukri@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-90 button-d0-0-2-92"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-94 text-d0-0-2-95 text-0-2-91 text-d1-0-2-93"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-96 avatarGroup-d0-0-2-97"
+          >
+            dm
+          </span>
+          <p
+            className="text-0-2-98 text-d0-0-2-99"
+          >
+            djamal@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-100 button-d0-0-2-102"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-104 text-d0-0-2-105 text-0-2-101 text-d1-0-2-103"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-106 avatarGroup-d0-0-2-107"
+          >
+            hb
+          </span>
+          <p
+            className="text-0-2-108 text-d0-0-2-109"
+          >
+            hamid@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-110 button-d0-0-2-112"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-114 text-d0-0-2-115 text-0-2-111 text-d1-0-2-113"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+      <div
+        className="emailRow-0-2-5"
+      >
+        <div
+          className="alignAvatar-0-2-6"
+        >
+          <span
+            className="avatarGroup-0-2-116 avatarGroup-d0-0-2-117"
+          >
+            sd
+          </span>
+          <p
+            className="text-0-2-118 text-d0-0-2-119"
+          >
+            said@gmail.com
+          </p>
+        </div>
+        <button
+          className="button-0-2-120 button-d0-0-2-122"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-124 text-d0-0-2-125 text-0-2-121 text-d1-0-2-123"
+          >
+            Retirer
+          </p>
+        </button>
+      </div>
+    </div>
+    <hr
+      className="line-0-2-3"
+    />
+    <div
+      className="licenseButtons-0-2-2"
+    >
+      <button
+        className="button-0-2-126 button-d0-0-2-128"
+        onClick={[Function]}
+        type="button"
+      >
+         
+        <p
+          className="text-0-2-130 text-d0-0-2-131 text-0-2-127 text-d1-0-2-129"
+        >
+          Annuler
+        </p>
+      </button>
+      <button
+        className="button-0-2-132 button-d0-0-2-134"
+        onClick={[Function]}
+        type="button"
+      >
+         
+        <p
+          className="text-0-2-136 text-d0-0-2-137 text-0-2-133 text-d1-0-2-135"
+        >
+          Confirmer
+        </p>
+      </button>
+    </div>
+  </div>
+</div>
+`;

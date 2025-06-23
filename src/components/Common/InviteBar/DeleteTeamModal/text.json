@@ -1,0 +1,12 @@
+{
+  "detachTitle": "Supprimer cette équipe",
+  "subHeader": "Une fois qu'une équipe est supprimée :",
+  "dot": "•",
+  "noTeam": "Les apprenants appartenant à l’équipe supprimée n’auront plus d’équipe.",
+  "detachText": "L’équipe supprimée ne sera plus affichée parmi la liste des équipes.",
+  "confirmationText": "Êtes-vous sûr de vouloir supprimer cette équipe ?",
+  "contactText": "Pour toutes vos questions, contactez-nous par e-mail à l'adresse suivante :",
+  "orViaPhone": "ou par téléphone au",
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler"
+}

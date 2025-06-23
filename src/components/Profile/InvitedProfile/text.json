@@ -1,0 +1,22 @@
+{
+  "reinviteLearner": "Réinviter apprenant",
+  "cancelInvitation": "Annuler l'invitation",
+  "deleteInvitationModal": {
+    "title": "Annuler l'invitation de cet apprenant",
+    "titleManager": "Annuler l'invitation de ce manager",
+    "subtitle": "Êtes-vous sûr de vouloir annuler l'invitation de cet apprenant ?",
+    "subtitleManager": "Êtes-vous sûr de vouloir annuler l'invitation de ce manager ?",
+    "contact": "Pour toutes vos questions, contactez-nous par e-mail à l'adresse suivante :",
+    "orByPhone": "ou par téléphone au :",
+    "abortButton": "Annuler",
+    "confirmButton": "Confirmer"
+  },
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle",
+    "Trial": "Essai",
+    "None": "Aucune"
+  },
+  "license": "Licence",
+  "withoutTeam": "Sans équipe"
+}

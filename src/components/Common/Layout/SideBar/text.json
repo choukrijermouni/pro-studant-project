@@ -1,0 +1,16 @@
+{
+    "wizard": {
+        "title": "Assistant",
+        "subTitle": "Créer vos équipes"
+    },
+    "menu": {
+        "home": "Tableau de bord ",
+        "learners": "Apprenants",
+        "teams": "Équipes",
+        "teamsManager": "Managers d'équipe",
+        "report": "Licences",
+        "admin": "Administrateurs",
+        "bill": "Factures"
+    },
+    "parameters": "Paramètres d'entreprise"
+}

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> FeatureCard --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div
+  onClick={[Function]}
+>
+  <div
+    className="paper-0-2-2 paper-d5-0-2-11 paper-0-2-14"
+  >
+    <div
+      className="icon-0-2-3"
+    >
+      <img
+        alt="logo"
+        className="userIcon-0-2-1 userIcon-d4-0-2-10"
+      />
+    </div>
+    <div
+      className="textActive-0-2-5 textActive-d7-0-2-13 text-0-2-4 text-d6-0-2-12"
+    >
+      <p
+        className="text-0-2-15 text-d0-0-2-16"
+      />
+    </div>
+  </div>
+</div>
+`;

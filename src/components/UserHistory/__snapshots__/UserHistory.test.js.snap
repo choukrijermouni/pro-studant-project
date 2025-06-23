@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> UserHistory --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div>
+  <div
+    className="container-0-2-20 container-d1-0-2-24"
+  >
+    <div
+      className="userContainer-0-2-18"
+    >
+      <div
+        className="avatarContainer-0-2-17"
+      >
+        <div
+          className="dot-0-2-15"
+        />
+        <img
+          className="avatarGroup-0-2-27 avatarGroup-d0-0-2-28"
+          src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+        />
+      </div>
+      <p
+        className="text-0-2-29 text-d0-0-2-30"
+      >
+        choukri jermouni
+      </p>
+    </div>
+    <div
+      className="conainerClass-0-2-11"
+    >
+      <div
+        className="textClass-0-2-12"
+      >
+        <p
+          className="text-0-2-31 text-d0-0-2-32"
+        >
+          Historique de connexion
+        </p>
+        <div
+          className="help-0-2-10"
+        >
+          <p
+            className="text-0-2-33 text-d0-0-2-34"
+          >
+            ?
+          </p>
+        </div>
+      </div>
+      <div
+        className="buttonClass-0-2-13"
+      >
+        <span
+          className="icon-download-alph-iconfont icon-0-2-16"
+        />
+        <p
+          className="text-0-2-35 text-d0-0-2-36"
+        >
+          Exporter
+        </p>
+      </div>
+    </div>
+    <table
+      className="root-0-2-50 root-d0-0-2-51"
+    >
+      <thead>
+        <tr
+          className="row-0-2-52 row-d0-0-2-53"
+        >
+          <td>
+            <p
+              className="text-0-2-54 text-d0-0-2-55"
+            >
+              Date/heure
+            </p>
+          </td>
+          <td>
+            <p
+              className="text-0-2-56 text-d0-0-2-57"
+            >
+              Type d'accès
+            </p>
+          </td>
+          <td>
+            <p
+              className="text-0-2-58 text-d0-0-2-59"
+            >
+              Emplacement
+            </p>
+          </td>
+          <td>
+            <p
+              className="text-0-2-60 text-d0-0-2-61"
+            >
+              Durée
+            </p>
+          </td>
+        </tr>
+      </thead>
+      <tbody
+        className="root-0-2-62 root-d0-0-2-63"
+      >
+        <tr
+          className="row-0-2-64 row-d0-0-2-65"
+        >
+          <td>
+            05:33 (il y a 4 minutes)
+          </td>
+          <td>
+            Navigateur (Chrome)
+          </td>
+          <td>
+            France (196.00.000.134)
+          </td>
+          <td>
+            3 heures
+          </td>
+        </tr>
+        <tr
+          className="row-0-2-66 row-d0-0-2-67"
+        >
+          <td>
+            05:33 (il y a 4 minutes)
+          </td>
+          <td>
+            Navigateur (Chrome)
+          </td>
+          <td>
+            France (196.00.000.134)
+          </td>
+          <td>
+            3 heures
+          </td>
+        </tr>
+        <tr
+          className="row-0-2-68 row-d0-0-2-69"
+        >
+          <td>
+            05:33 (il y a 4 minutes)
+          </td>
+          <td>
+            Navigateur (Chrome)
+          </td>
+          <td>
+            France (196.00.000.134)
+          </td>
+          <td>
+            3 heures
+          </td>
+        </tr>
+        <tr
+          className="row-0-2-70 row-d0-0-2-71"
+        >
+          <td>
+            05:33 (il y a 4 minutes)
+          </td>
+          <td>
+            Navigateur (Chrome)
+          </td>
+          <td>
+            France (196.00.000.134)
+          </td>
+          <td>
+            3 heures
+          </td>
+        </tr>
+        <tr
+          className="row-0-2-72 row-d0-0-2-73"
+        >
+          <td>
+            05:33 (il y a 4 minutes)
+          </td>
+          <td>
+            Navigateur (Chrome)
+          </td>
+          <td>
+            France (196.00.000.134)
+          </td>
+          <td>
+            3 heures
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

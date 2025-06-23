@@ -1,0 +1,12 @@
+{
+  "categories": "Catégories",
+  "tags": "Sous-catégorie",
+  "header": "Modification du mot de passe.",
+  "headerInvited": "Choix du mot de passe",
+  "save": "Continuer",
+  "search": "Recherche...",
+  "emailLabel": "E-mail",
+  "passwordLabel": "Mot de passe",
+  "confirmPasswordLabel": "Confirmation du mot de passe",
+  "steps": "Étape 2 sur 3"
+}

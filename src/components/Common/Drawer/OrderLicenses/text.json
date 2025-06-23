@@ -1,0 +1,26 @@
+{
+  "title": "Commander des licences",
+  "subTitle": "Sélectionnez votre type et nombre de licence pour passer votre commande",
+  "other": "Plus ",
+  "licenseType": "Type de licence",
+  "order": "Passer votre commande/demande par : ",
+  "licenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle"
+  },
+  "licenseQuantity": "Quantité de licence",
+  "submit": "Demander un devis",
+  "pay": "Paiement en ligne ",
+  "tip": "Astuce",
+  "tipContent": {
+    "link": "live chat",
+    "email": "cs@pro_boa.com",
+    "phone": "+33176350685",
+    "body": {
+      "first": "Vous pouvez toujours demander de l'aide en contactant notre équipe via",
+      "second": ", par email à",
+      "last": "ou par téléphone au "
+    }
+  },
+  "more": "+10"
+}

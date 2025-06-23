@@ -1,0 +1,14 @@
+{
+  "invite": "Inviter des apprenants",
+  "inviteMessage": "Invitez un ou plusieurs apprenants à vous rejoindre",
+  "placeholder": "Insérez un ou plusieurs e-mails",
+  "ErrorValidationEmails": {
+    "Required": "Minimum un e-mail pour effectuer cette action",
+    "FormatInvalid": "Le format des e-mails est incorrecte. Veuillez séparer les e-mails par des sauts de ligne.",
+    "EmailsDuplicated": "Un ou plusieurs e-mails sont dupliqués",
+    "EmailsNonValid": "Un ou plusieurs e-mails sont invalides",
+    "EmailsAlreadyExist": "Un ou plusieurs e-mails sont déjà utilisés",
+    "Error": "Une erreur s’est produite, veuillez réessayer plus tard"
+  },
+  "dot": "•"
+}

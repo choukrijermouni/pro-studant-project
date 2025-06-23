@@ -1,0 +1,15 @@
+{
+  "editAdminSuccess": "La modification de l'administrateur est faite avec succès",
+  "updateAvatarSuccess": "Avatar modifié avec succès",
+  "updateAvatarFailed": "Échec de la modification de l’avatar",
+  "deleteAvatarSuccess": "Avatar supprimé avec succès",
+  "deleteAvatarFailed": "Échec de la suppression de l’avatar",
+  "editInfosFailed": "Échec de la modification de vos informations",
+  "editInfosSuccess": "Informations mises à jour avec succès",
+  "editPasswordSuccess": "Mot de passe mis à jour avec succès",
+  "editPasswordFailed": "Échec de la modification de votre mot de passe",
+  "tab1": "Profil",
+  "tab2": "E-mails",
+  "tab3": "Notifications",
+  "myAccount": "Compte"
+}

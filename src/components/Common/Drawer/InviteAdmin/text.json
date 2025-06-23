@@ -1,0 +1,21 @@
+{
+  "invite": "Inviter des apprenants",
+  "inviteMessage": "Invitez un ou plusieurs apprenants à vous rejoindre",
+  "suivi": "Rapport de suivi global",
+  "download": "Inviter",
+  "export": "Exporter les rapports",
+  "type": "Type de rapport",
+  "downloadSuivi": "Exporter le rapport de suivi",
+  "users": "Liste des apprenants",
+  "suiviMessage": "Suivez la progression de vos apprenants",
+  "selectTeam": "Sélectionnez une équipe",
+  "placeholder": "Inserez l'email de l'admin",
+  "none": "Aucune",
+  "Team": "Équipe",
+  "noName": "Sans nom",
+  "titleInvite": "Inviter un admin",
+  "label": {
+    "team": "Nom d'équipe",
+    "email": "Email"
+  }
+}

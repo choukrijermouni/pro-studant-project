@@ -1,0 +1,20 @@
+{
+  "inviteTitle": "Inviter des apprenants",
+  "subHeader": {
+    "first": "Vous avez invité ",
+    "second": "nouveaux apprenants à rejoindre votre organisme"
+  },
+  "transfer": "Confirmer le transfert de la licence",
+  "subTitle": "Une fois que la licence est transférée d'un apprenant à l'autre : ",
+  "dot": "•",
+  "steps": [
+    "Le nouveau bénéficiaire reçoit un e-mail de transfert de licence",
+    "L’ancien bénéficiaire n'aura plus de licence",
+    "Le nouveau bénéficiaire reçoit un abonnement mensuel d'une durée de 2 mois et 4 jours."
+  ],
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler",
+  "confirm": "Êtes-vous sûr de vouloir transférer la licence ?",
+  "support": "En cas de besoin, contactez-nous par e-mail à l'adresse :",
+  "orViaPhone": "ou par téléphone au :"
+}

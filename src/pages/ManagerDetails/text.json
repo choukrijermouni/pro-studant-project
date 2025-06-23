@@ -1,0 +1,13 @@
+{
+  "success": "success",
+  "detachSuccess": "Le manager est retiré de l'équipe avec succès",
+  "detachFailed": "Une erreur est survenue, veuillez réessayer plus tard",
+  "attachSuccess": "Le manager est ajouté à l'équipe avec succès",
+  "attachFailed": "Une erreur est survenue, veuillez réessayer plus tard",
+  "removeManager": " Le manager est retiré avec succès",
+  "Title": "Aucune équipe affectée à ce manager",
+  "SubTitle": "Affectez une équipe au manager à tout moment.",
+  "CheckBox": "Tout sélectionner ",
+  "download": "Exporter les rapports de suivi",
+  "gere": "Gérer les licences"
+}

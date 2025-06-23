@@ -1,0 +1,16 @@
+{
+  "inviteTitle": "Inviter des apprenants",
+  "subHeader": {
+    "first": "Vous avez invité",
+    "second": "nouveaux apprenants à rejoindre votre organisme"
+  },
+  "learner": "Apprenants",
+  "licenseAffect": "Affecter des licences à vos apprenants",
+  "monthlyLicenseLeft": "Licences Mensuelles disponibles : ",
+  "yearlyLicenseLeft": "Licences Annuelles disponibles : ",
+  "yearlyButton": "Annuelle",
+  "monthlyButton": "Mensuelle",
+  "confirmButton": "Confirmer",
+  "abortButton": "Annuler",
+  "buttonText": "Transférer"
+}

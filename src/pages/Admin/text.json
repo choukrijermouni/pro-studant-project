@@ -1,0 +1,27 @@
+{
+    "title": "Administrateur",
+    "message": {
+        "text": "Si vous voulez ajouter un administrateur pour votre compte entreprise, veuillez ",
+        "link": "contacter l'équipe support"
+    },
+    "addAdminSuccess": "Le nouvel administrateur est ajouté avec succès",
+    "addAdminError": "Une erreur est survenue, veuillez réessayer plus tard",
+    "info": "i",
+    "name": "Nom complet",
+    "creationDate": "Date de création",
+    "lastConnectionDate": "Date de dernière connexion",
+    "never": "Aucune activité",
+    "email": "E-mail",
+    "noDate": "Aucune date",
+    "showMore": "Afficher plus",
+    "userInvited": "Invité par e-mail à l'adresse",
+    "invite": "Inviter un admin",
+    "inviteAdminSuccess": "Admin invité avec succès",
+    "inviteAdminFail": "Une erreur est survenue, veuillez réessayer plus tard",
+    "deleteAdminSuccess": "Admin supprimé avec succès",
+    "deleteAdminFail": "Une erreur est survenue, veuillez réessayer plus tard",
+    "removeAdmin": "Retirer ce admin",
+    "deleteAdmin": "Retirer l’invitation",
+    "cancelLeanerInvitationSuccess": "l'invitation de l'administrateur a été annulée avec succès",
+    "cancelLeanerInvitationError": "Une erreur est survenue, veuillez réessayer plus tard"
+}

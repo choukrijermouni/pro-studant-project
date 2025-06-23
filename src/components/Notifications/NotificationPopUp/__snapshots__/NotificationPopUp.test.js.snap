@@ -1,0 +1,195 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> NotificationPopUp --- Shallow Render NotificationPopUp component +++ render correctly and match snapshot 1`] = `
+<div
+  className="notificationPaper-0-2-1 paper-0-2-8"
+>
+  <p
+    className="text-0-2-9 text-d0-0-2-10 triangle-0-2-6"
+  >
+    ▲
+  </p>
+  <div
+    className="notificationHeader-0-2-4"
+  >
+    <p
+      className="text-0-2-11 text-d0-0-2-12"
+    >
+      Notifications
+    </p>
+    <p
+      className="text-0-2-13 text-d0-0-2-14"
+    >
+      <div
+        className="cursor-0-2-7"
+        onClick={[Function]}
+      >
+         
+        Marquer tout comme lu
+      </div>
+    </p>
+  </div>
+  <div
+    className="notificationCardsContainer-0-2-2"
+  >
+    <div
+      className="notificationCard-0-2-15 notificationCard-d0-0-2-19"
+    >
+      <div
+        className="avatarContainer-0-2-16"
+      >
+        <div
+          className="avatarContainer-0-2-21"
+        >
+          <div
+            className="dot-0-2-20"
+          />
+          <img
+            className="avatarGroup-0-2-22 avatarGroup-d0-0-2-23"
+            src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+          />
+        </div>
+        <div
+          className="textContainer-0-2-18"
+        >
+          <div>
+            <p
+              className="text-0-2-24 text-d0-0-2-25"
+            >
+              Choukri Jermouni
+            </p>
+            <p
+              className="text-0-2-26 text-d0-0-2-27"
+            >
+               à crée l’équipe
+            </p>
+            <p
+              className="text-0-2-28 text-d0-0-2-29"
+            >
+               Développement
+            </p>
+          </div>
+          <p
+            className="text-0-2-30 text-d0-0-2-31"
+          >
+            Il y a 20 min
+          </p>
+        </div>
+      </div>
+      <span
+        className="icon-roundedUp icon-0-2-17"
+      />
+    </div>
+    <div
+      className="notificationCard-0-2-15 notificationCard-d1-0-2-32"
+    >
+      <div
+        className="avatarContainer-0-2-16"
+      >
+        <div
+          className="avatarContainer-0-2-21"
+        >
+          <div
+            className="dot-0-2-20"
+          />
+          <img
+            className="avatarGroup-0-2-33 avatarGroup-d0-0-2-34"
+            src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+          />
+        </div>
+        <div
+          className="textContainer-0-2-18"
+        >
+          <div>
+            <p
+              className="text-0-2-35 text-d0-0-2-36"
+            >
+              Richard Drissi
+            </p>
+            <p
+              className="text-0-2-37 text-d0-0-2-38"
+            >
+               à crée l’équipe
+            </p>
+            <p
+              className="text-0-2-39 text-d0-0-2-40"
+            >
+               Développement
+            </p>
+          </div>
+          <p
+            className="text-0-2-41 text-d0-0-2-42"
+          >
+            Il y a 20 min
+          </p>
+        </div>
+      </div>
+      <span
+        className="icon-roundedUp icon-0-2-17"
+      />
+    </div>
+    <div
+      className="notificationCard-0-2-15 notificationCard-d2-0-2-43"
+    >
+      <div
+        className="avatarContainer-0-2-16"
+      >
+        <div
+          className="avatarContainer-0-2-21"
+        >
+          <div
+            className="dot-0-2-20"
+          />
+          <img
+            className="avatarGroup-0-2-44 avatarGroup-d0-0-2-45"
+            src="https://static.pro_boa.com/dev/upload/9f8f4041-acfe-4fcb-99b1-0545a6d35d1e.jpeg"
+          />
+        </div>
+        <div
+          className="textContainer-0-2-18"
+        >
+          <div>
+            <p
+              className="text-0-2-46 text-d0-0-2-47"
+            >
+              Marouane Ait Mensour
+            </p>
+            <p
+              className="text-0-2-48 text-d0-0-2-49"
+            >
+               à crée l’équipe
+            </p>
+            <p
+              className="text-0-2-50 text-d0-0-2-51"
+            >
+               Project Manager
+            </p>
+          </div>
+          <p
+            className="text-0-2-52 text-d0-0-2-53"
+          >
+            Il y a 20 min
+          </p>
+        </div>
+      </div>
+      <span
+        className="icon-roundedUp icon-0-2-17"
+      />
+    </div>
+  </div>
+  <div
+    className="notificationFooter-0-2-5"
+  >
+    <p
+      className="text-0-2-54 text-d0-0-2-55"
+    >
+      <div
+        className="cursor-0-2-7"
+        onClick={[Function]}
+      >
+        Afficher toutes les notifications
+      </div>
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,37 @@
+{
+  "title": "Affectation en masse",
+  "licensesLeft": "Licences restantes",
+  "licenseType": "Type de licence",
+  "selected": "séléctionnés)",
+  "learners": "Apprenants",
+  "searchPlaceHolders": "Rechercher par nom, email",
+  "affect": "Affecter",
+  "licenseTypes": {
+    "Annual": "A",
+    "Monthly": "M",
+    "Trial": "E"
+  },
+  "fullLicenseTypes": {
+    "Annual": "Annuelle",
+    "Monthly": "Mensuelle"
+  },
+  "licenseTypeNames": {
+    "Annual": "Licence Annuelle",
+    "Monthly": "Licence Mensuelle",
+    "Trial": "Licence d'Essai"
+  },
+  "createTitle": "Créer un apprenant",
+  "noLicenseButton": "Commander des licences",
+  "noLicense": "Désolé vous n'avez aucune licence disponible, vous ne pouvez pas créer un nouveau apprenant pour le moment.",
+  "tip": "Astuce",
+  "tipContent": {
+    "link": "live chat",
+    "email": "cs@pro_boa.com",
+    "phone": "+33176350685",
+    "body": {
+      "first": "Si vous voulez créer vos apprenants en masse, veuillez contacter notre équipe via",
+      "second": ", par email à",
+      "last": "ou par téléphone au "
+    }
+  }
+}

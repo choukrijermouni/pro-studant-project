@@ -1,0 +1,20 @@
+{
+  "history": {
+    "historyTitle": "Historique des affectations",
+    "license": "Licence",
+    "viewAll": "Afficher tout",
+    "noLicense": "-",
+    "noName": "-",
+    "noDate": "-",
+    "helpMessage": "Historique des affectations"
+  },
+  "deleteUser": "Retirer cet apprenant",
+  "buttonDownload": "Télécharger",
+  "licenseTypes": {
+    "Annual": "Annuel",
+    "Monthly": "Mensuel",
+    "Trial": "Essai",
+    "None": "Aucun"
+  },
+  "License": "Licence"
+}

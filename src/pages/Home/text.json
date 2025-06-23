@@ -1,0 +1,10 @@
+{
+  "licenseTypes": {
+    "1": "Abonnement Annuel",
+    "2": "Abonnement Mensuel",
+    "3": "Abonnement d'essai"
+  },
+  "NA": "-",
+  "orderLicensesSuccess": "Votre commande est bien envoyée, notre équipe vont vous contacter très prochainement",
+  "orderLicensesFail": "Une erreur est survenue, veuillez réessayer plus tard"
+}

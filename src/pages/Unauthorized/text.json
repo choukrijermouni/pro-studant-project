@@ -1,0 +1,5 @@
+{
+  "unauthorized": "Votre compte n'a pas les autorisations requises pour accéder à cet espace",
+  "logout": "Se déconnecter",
+  "login": "Se connecter"
+}

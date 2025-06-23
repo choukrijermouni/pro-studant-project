@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>help</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compte-admin-connecté-:-notifications" transform="translate(-1854.000000, -30.000000)">
+            <g id="topbar" transform="translate(319.000000, 0.000000)">
+                <g id="main" transform="translate(24.000000, 16.000000)">
+                    <g id="help" transform="translate(1511.000000, 14.000000)">
+                        <circle id="Oval" fill="#F1F3F4" cx="13" cy="13" r="13"></circle>
+                        <text id="?" font-family="MyanmarSangamMN-Bold, Myanmar Sangam MN" font-size="14" font-weight="bold" fill="#9CAEC1">
+                            <tspan x="10" y="18">?</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

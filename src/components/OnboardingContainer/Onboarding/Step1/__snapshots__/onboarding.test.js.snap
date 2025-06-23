@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> Onboarding --- Shallow Render ManagerCard component +++ render correctly and match snapshot 1`] = `
+<div
+  className="body-0-2-5"
+>
+  <div
+    className="paper-0-2-6 paper-0-2-9"
+  >
+    <div
+      className="content-0-2-1"
+    >
+      <img
+        alt="notification"
+        className="logo-0-2-2"
+        src={Object {}}
+      />
+      <p
+        className="text-0-2-10 text-d0-0-2-11"
+      >
+         Nouvelles fonctionnalités disponibles avec pro_boa PRO
+      </p>
+      <p
+        className="text-0-2-12 text-d0-0-2-13"
+      >
+        Bonjour 
+        Hamid
+        , pro_boa PRO fait souffler un vent nouveau sur vos activités les plus quotidiennes, en les simplifiant comme jamais.
+      </p>
+      <p
+        className="text-0-2-14 text-d0-0-2-15"
+      >
+         Fonctionnalités et améliorations
+      </p>
+      <div
+        className="cardDeck-0-2-8"
+      >
+        <div
+          className="view-0-2-7"
+        >
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d1-0-2-22 paper-0-2-25"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d0-0-2-21"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d3-0-2-24 text-0-2-19 text-d2-0-2-23"
+              >
+                <p
+                  className="text-0-2-26 text-d0-0-2-27"
+                >
+                  Dashboard
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d5-0-2-29 paper-0-2-32"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d4-0-2-28"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d7-0-2-31 text-0-2-19 text-d6-0-2-30"
+              >
+                <p
+                  className="text-0-2-33 text-d0-0-2-34"
+                >
+                  analytics
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="view-0-2-7"
+        >
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d9-0-2-36 paper-0-2-39"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d8-0-2-35"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d11-0-2-38 text-0-2-19 text-d10-0-2-37"
+              >
+                <p
+                  className="text-0-2-40 text-d0-0-2-41"
+                >
+                  Les actions rapides
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d13-0-2-43 paper-0-2-46"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d12-0-2-42"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d15-0-2-45 text-0-2-19 text-d14-0-2-44"
+              >
+                <p
+                  className="text-0-2-47 text-d0-0-2-48"
+                >
+                  Les rapports
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="view-0-2-7"
+        >
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d17-0-2-50 paper-0-2-53"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d16-0-2-49"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d19-0-2-52 text-0-2-19 text-d18-0-2-51"
+              >
+                <p
+                  className="text-0-2-54 text-d0-0-2-55"
+                >
+                  Transférer des licences
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            onClick={[Function]}
+          >
+            <div
+              className="paper-0-2-17 paper-d21-0-2-57 paper-0-2-60"
+            >
+              <div
+                className="icon-0-2-18"
+              >
+                <img
+                  alt="logo"
+                  className="userIcon-0-2-16 userIcon-d20-0-2-56"
+                  src={Object {}}
+                />
+              </div>
+              <div
+                className="textActive-0-2-20 textActive-d23-0-2-59 text-0-2-19 text-d22-0-2-58"
+              >
+                <p
+                  className="text-0-2-61 text-d0-0-2-62"
+                >
+                  Creation rapide d'équipes
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr
+        className="line-0-2-3"
+      />
+      <div
+        className="licenseButtons-0-2-4"
+      >
+        <button
+          className="button-0-2-63 button-d0-0-2-65"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-67 text-d0-0-2-68 text-0-2-64 text-d1-0-2-66"
+          >
+            Annuler tout
+          </p>
+        </button>
+        <button
+          className="button-0-2-69 button-d0-0-2-71"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="text-0-2-73 text-d0-0-2-74 text-0-2-70 text-d1-0-2-72"
+          >
+            Découvrir
+          </p>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
